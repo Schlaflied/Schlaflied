@@ -50,7 +50,8 @@ ATS认不出我，所以我绕过去了。
 [`hr-skill`](https://github.com/Schlaflied/hr-skill) 是我给HR的问卷。
 
 **最新学术糟粕**
-[当Claude成为我的老师：AI作为后现代青年精神权威的田野报告](https://shitspace.xyz/article/bea4cbe3-3ddb-457e-9af9-3b6ca4e41944)
+
+-[当Claude成为我的老师：AI作为后现代青年精神权威的田野报告](https://shitspace.xyz/article/bea4cbe3-3ddb-457e-9af9-3b6ca4e41944)
 
 
 欢迎来找我玩：Discord **schlaflied_**
