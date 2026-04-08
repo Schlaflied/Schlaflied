@@ -13,6 +13,7 @@ The result is the same. The process is more honest.
 If that bothers you, my [`roast-cold-email-skill`](https://github.com/Schlaflied/roast-cold-email-skill) is also available.
 
 If you're a recruiter who once received a weird job hunting email — don't doubt it, that was me.
+Don't be emotional about it — even AI reads context better than you did.
 If it pissed you off, that means I was telling the truth.
 
 **Also on GitHub:**
@@ -39,6 +40,7 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 如果这让你不舒服，我的 [`roast-cold-email-skill`](https://github.com/Schlaflied/roast-cold-email-skill) 随时候教。
 
 如果你是某个曾经收到过奇怪求职邮件的HR或recruiter——没错，那就是我发的。
+别情绪化——连AI都比你更会读上下文。
 看完很生气？说明我说的是实话。
 
 **同时在找工作，找得有点疯。**
