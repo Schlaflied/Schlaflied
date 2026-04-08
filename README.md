@@ -1,6 +1,7 @@
 ## Hi, I'm Schlaflied · she/her
 
-Instructional designer. I build AI pipelines instead of slide decks.
+Instructional designer. I build AI pipelines instead of slide decks. 
+Articulate is a SHIT so I build tools myself for better learning pattern tracking. Someone who uses articulate in 2026 will be soon REPLACED by AI coz my AI decoded SCROM already. If you are still using SCROM for your LMS, that means you are still in age 2006 and lying to yourself about the learning process.
 
 **Currently shipping:**
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
