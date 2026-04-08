@@ -12,6 +12,9 @@ The result is the same. The process is more honest.
 
 If that bothers you, my [`roast-cold-email-skill`](https://github.com/Schlaflied/roast-cold-email-skill) is also available.
 
+If you're a recruiter who once received a weird job hunting email — don't doubt it, that was me.
+If it pissed you off, that means I was telling the truth.
+
 **Also on GitHub:**
 - [`hr-skill`](https://github.com/Schlaflied/hr-skill) — because HR deserves better questions
 - [`roast-cold-email-skill`](https://github.com/Schlaflied/roast-cold-email-skill) — cold email with receipts, not compliments
@@ -34,6 +37,9 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 结果一样。我只是对这个过程更诚实。
 
 如果这让你不舒服，我的 [`roast-cold-email-skill`](https://github.com/Schlaflied/roast-cold-email-skill) 随时候教。
+
+如果你是某个曾经收到过奇怪求职邮件的HR或recruiter——没错，那就是我发的。
+看完很生气？说明我说的是实话。
 
 **同时在找工作，找得有点疯。**
 ATS认不出我，所以我绕过去了。
