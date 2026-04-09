@@ -22,7 +22,7 @@ If it pissed you off, that means I was telling the truth.
 ### If you are a recruiter who is searching for agentic AI builder and workflow optimization around GTA Canada, I am the right person to contact to. I would rather use my code instead stupid PDF resume to explain what I do.
 ### For recruiters: If you are still using stupid ATS and AI filter to select candidates, you will NEVER find the right person for your organization. Most resumes are written by GPT, you should know that.
 ### You said you paid for Linkedin Premium? I have achieved a 47% response rate using my [Job autopilot](https://github.com/Schlaflied/job-autopilot) whithout paying for Premium. I build this pipeline which your organization doesn't even have one.
-### It is AI era, STOP using hiring method in 2006, if you continue to use ATS for filtering candidates and don't even to take a look on their works, you will soon REPLACED by AI. Even GPT read my work better than you do.
+### It is AI era, STOP using hiring method in 2006, if you continue to use ATS for filtering candidates and don't even willing to take a look at their works, you will soon REPLACED by AI. Even GPT read my work better than you do.
 
 **Also on GitHub:**
 - [`hr-skill`](https://github.com/Schlaflied/hr-skill) — because HR deserves better questions
