@@ -18,6 +18,11 @@ If you're a recruiter who once received a weird job hunting email — don't doub
 Don't be emotional about it — even AI reads context better than you did.
 If it pissed you off, that means I was telling the truth.
 
+
+### If you are a recruiter who is searching for agentic AI builder and workflow optimization around GTA Canada, I am the right person to contact to. I would rather my code instead stupid PDF resume to explain what I do.
+### For recruiters: If you are still using stupid ATS and AI filter to select the candidate, you will NEVER find the right person for your organization. You said you paid for Linkedin Premium? I have achieve a 47% using my [Job autopilot](https://github.com/Schlaflied/job-autopilot).
+### It is AI era, STOP using hiring method in 2006, if you continue to use ATS for filtering candidates and don't even to take a look on their works, you will soon REPLACED by AI. Even GPT know the resume better than you do.
+
 **Also on GitHub:**
 - [`hr-skill`](https://github.com/Schlaflied/hr-skill) — because HR deserves better questions
 - [`roast-cold-email-skill`](https://github.com/Schlaflied/roast-cold-email-skill) — cold email with receipts, not compliments
