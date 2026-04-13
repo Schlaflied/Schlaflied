@@ -6,7 +6,7 @@ Articulate is a SHIT so I build tools myself for better learning pattern trackin
 
 **Currently shipping:**
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
-- 🤝 Contributor @ [Hive](https://github.com/agenthubdev/hive) (YC-backed) — SDR Agent merged in v0.7.3, three PRs in review
+- 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, three PRs in review
 
 **How I build:**
 I don't write code from scratch. I architect systems, define agent behavior, and use AI to ship.
