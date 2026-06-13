@@ -39,7 +39,7 @@ The result is the same. The process is more honest.
 - [`hr-skill`](https://github.com/Schlaflied/hr-skill) — because HR deserves better questions
 - [`roast-cold-email-skill`](https://github.com/Schlaflied/roast-cold-email-skill) — cold email with receipts, not compliments
 
-If you're hiring around the GTA (agentic AI, workflow automation, learning systems): the repos above explain what I do better than any PDF resume could. Start there.
+If you're hiring around the GTA Canada (agentic AI, workflow automation, learning systems): the repos above explain what I do better than any PDF resume could. Start there.
 
 MPEd @ Western · EdTech · Discord: **schlaflied_**
 
