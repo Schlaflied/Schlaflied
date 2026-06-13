@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Schlaflied&fontColor=ffffff&fontSize=70&desc=I%20architect%20systems.%20AI%20ships%20them.&descSize=18&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C7686,100:689AAF&height=200&section=header&text=Schlaflied&fontColor=F4FAFB&fontSize=70&desc=I%20architect%20systems.%20AI%20ships%20them.&descSize=18&descAlignY=68" width="100%" />
 
 <a href="https://github.com/Schlaflied">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=Instructional+designer%2C+not+a+coder;I+build+pipelines%2C+not+slide+decks;SCORM+measures+completion%2C+not+learning;I+architect+systems+%E2%80%94+AI+ships+them" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=689AAF&center=true&vCenter=true&width=620&lines=Instructional+designer%2C+not+a+coder;I+build+pipelines%2C+not+slide+decks;SCORM+measures+completion%2C+not+learning;I+architect+systems+%E2%80%94+AI+ships+them" alt="typing" />
 </a>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=flat-square&logo=flask&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-1a1a2e?style=flat-square&logo=playwright&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=flat-square&logo=redis&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-1a1a2e?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4C7686?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-4C7686?style=flat-square&logo=flask&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-4C7686?style=flat-square&logo=playwright&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4C7686?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-4C7686?style=flat-square&logo=redis&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-4C7686?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
 
