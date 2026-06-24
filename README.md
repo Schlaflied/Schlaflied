@@ -27,6 +27,7 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 
 **Currently shipping:**
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
+- 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — cognitive self-modeling from git history + note embeddings. Same methodology as xAPI, personal scale. Surfaces patterns you weren't aware of.
 - 🤝 Contributor @ [career-ops](https://github.com/santifer/career-ops) (50K+ ★) — authored the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918)), shipped its phase-1 implementation ([#919](https://github.com/santifer/career-ops/pull/919)) and the reverse-ATS discovery module ([#746](https://github.com/santifer/career-ops/pull/746)); now leading the storage-layer track
 - 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, three PRs in review
 
@@ -55,6 +56,7 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 不是concept，是跑通的东西。
 详情请见：
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional design
+- 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — 从git历史和笔记内容重建认知自我模型。xAPI是机构规模的版本，这是个人规模的。浮现你自己都没意识到的模式。
 
 **开源贡献：**
 - [career-ops](https://github.com/santifer/career-ops)（50K+ ★）— 提出SQLite存储层架构RFC（#918），实现并合并了phase 1（#919）和reverse-ATS发现模块（#746），现在负责storage-layer方向的社区review
