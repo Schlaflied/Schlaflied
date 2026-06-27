@@ -15,6 +15,8 @@
 ![Redis](https://img.shields.io/badge/Redis-4C7686?style=flat-square&logo=redis&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-4C7686?style=flat-square&logo=anthropic&logoColor=white)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Schlaflied&color=689AAF&style=flat-square&label=profile+views)
+
 </div>
 
 ---
