@@ -3,12 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C7686,100:689AAF&height=200&section=header&text=Schlaflied&fontColor=F4FAFB&fontSize=70&desc=I%20architect%20systems.%20AI%20ships%20them.&descSize=18&descAlignY=68" width="100%" />
 
 <a href="https://github.com/Schlaflied">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=689AAF&center=true&vCenter=true&width=620&lines=Instructional+designer%2C+not+a+coder;I+build+pipelines%2C+not+slide+decks;SCORM+measures+completion%2C+not+learning;I+architect+systems+%E2%80%94+AI+ships+them" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=689AAF&center=true&vCenter=true&width=620&lines=Instructional+designer%2C+not+a+coder;I+build+pipelines%2C+not+slide+decks;SCORM+measures+completion%2C+not+learning;Five+plugins%2C+one+ecosystem;I+architect+systems+%E2%80%94+AI+ships+them" alt="typing" />
 </a>
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-4C7686?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-4C7686?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-4C7686?style=flat-square&logo=flask&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-4C7686?style=flat-square&logo=playwright&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4C7686?style=flat-square&logo=postgresql&logoColor=white)
@@ -30,7 +31,8 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 **Currently shipping:**
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — cognitive self-modeling from git history + note embeddings. Same methodology as xAPI, personal scale. Surfaces patterns you weren't aware of.
-- 🤝 Contributor @ [career-ops](https://github.com/santifer/career-ops) (50K+ ★) — authored the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918)), shipped its phase-1 implementation ([#919](https://github.com/santifer/career-ops/pull/919)) and the reverse-ATS discovery module ([#746](https://github.com/santifer/career-ops/pull/746)); now leading the storage-layer track
+- 🔌 **The first community plugins in the [career-ops](https://github.com/santifer/career-ops) registry** — a five-plugin suite, all zero-key and local-first: [google-calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar) (interviews from your calendar), [linkedin-alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts) (job URLs from Gmail alerts), [outlook-interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews) (invite detection via MS Graph), [tavily](https://github.com/Schlaflied/career-ops-plugin-tavily) (search/liveness), [obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian) (tracker → Dataview frontmatter notes, zero network). *"You're helping seed the ecosystem"* — the maintainer.
+- 🤝 Contributor @ [career-ops](https://github.com/santifer/career-ops) core (50K+ ★) — authored the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918)), shipped its phase-1 implementation ([#919](https://github.com/santifer/career-ops/pull/919)) and the reverse-ATS discovery module ([#746](https://github.com/santifer/career-ops/pull/746)); now leading the storage-layer track
 - 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, three PRs in review
 
 **How I build:**
@@ -61,7 +63,8 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — 从git历史和笔记内容重建认知自我模型。xAPI是机构规模的版本，这是个人规模的。浮现你自己都没意识到的模式。
 
 **开源贡献：**
-- [career-ops](https://github.com/santifer/career-ops)（50K+ ★）— 提出SQLite存储层架构RFC（#918），实现并合并了phase 1（#919）和reverse-ATS发现模块（#746），现在负责storage-layer方向的社区review
+- [career-ops](https://github.com/santifer/career-ops)（50K+ ★）插件生态 — **registry 里最早的社区插件全部出自我手**：日历、Gmail、Outlook、Tavily、Obsidian 五件套，全部 zero-key、local-first。maintainer 原话："You're helping seed the ecosystem."
+- [career-ops](https://github.com/santifer/career-ops) core — 提出SQLite存储层架构RFC（#918），实现并合并了phase 1（#919）和reverse-ATS发现模块（#746），现在负责storage-layer方向的社区review
 - [Hive](https://github.com/aden-hive/hive)（YC-backed）— SDR Agent已合并进v0.7.3，另有三个PR在review
 
 **我怎么造工具：**
