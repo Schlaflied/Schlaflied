@@ -82,9 +82,40 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 
 ### 🐱 Office cat gallery (unpaid, unbothered, occasionally on the keyboard)
 
-<img src="./assets/cats/cat1.jpg" width="200" alt="cat 1" />
-<img src="./assets/cats/cat2.jpg" width="200" alt="cat 2" />
-<img src="./assets/cats/cat3.jpg" width="200" alt="cat 3" />
-<img src="./assets/cats/cat4.jpg" width="200" alt="cat 4" />
+**Icy (冰糖)** — odd-eyed white cat, 3 years old · **Xueli (雪梨)** — calico, 1.5 years old
+
+<details>
+<summary>click to expand — 26 counts of chief distraction officers</summary>
+
+<!-- CAT-GALLERY:START -->
+<img src="./assets/cats/cat-01.jpg" width="150" alt="cat 1" />
+<img src="./assets/cats/cat-02.jpg" width="150" alt="cat 2" />
+<img src="./assets/cats/cat-03.jpg" width="150" alt="cat 3" />
+<img src="./assets/cats/cat-04.jpg" width="150" alt="cat 4" />
+<img src="./assets/cats/cat-05.jpg" width="150" alt="cat 5" />
+<img src="./assets/cats/cat-06.jpg" width="150" alt="cat 6" />
+<img src="./assets/cats/cat-07.jpg" width="150" alt="cat 7" />
+<img src="./assets/cats/cat-08.jpg" width="150" alt="cat 8" />
+<img src="./assets/cats/cat-09.jpg" width="150" alt="cat 9" />
+<img src="./assets/cats/cat-10.jpg" width="150" alt="cat 10" />
+<img src="./assets/cats/cat-11.jpg" width="150" alt="cat 11" />
+<img src="./assets/cats/cat-12.jpg" width="150" alt="cat 12" />
+<img src="./assets/cats/cat-13.jpg" width="150" alt="cat 13" />
+<img src="./assets/cats/cat-14.jpg" width="150" alt="cat 14" />
+<img src="./assets/cats/cat-15.jpg" width="150" alt="cat 15" />
+<img src="./assets/cats/cat-16.jpg" width="150" alt="cat 16" />
+<img src="./assets/cats/cat-17.jpg" width="150" alt="cat 17" />
+<img src="./assets/cats/cat-18.jpg" width="150" alt="cat 18" />
+<img src="./assets/cats/cat-19.jpg" width="150" alt="cat 19" />
+<img src="./assets/cats/cat-20.jpg" width="150" alt="cat 20" />
+<img src="./assets/cats/cat-21.jpg" width="150" alt="cat 21" />
+<img src="./assets/cats/cat-22.jpg" width="150" alt="cat 22" />
+<img src="./assets/cats/cat-23.jpg" width="150" alt="cat 23" />
+<img src="./assets/cats/cat-24.jpg" width="150" alt="cat 24" />
+<img src="./assets/cats/cat-25.jpg" width="150" alt="cat 25" />
+<img src="./assets/cats/cat-26.jpg" width="150" alt="cat 26" />
+<!-- CAT-GALLERY:END -->
+
+</details>
 
 </div>
