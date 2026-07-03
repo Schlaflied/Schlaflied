@@ -80,8 +80,11 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 
 <div align="center">
 
-### 🐱 Office cat (unpaid, unbothered, occasionally on the keyboard)
+### 🐱 Office cat gallery (unpaid, unbothered, occasionally on the keyboard)
 
-<img src="./assets/cat.jpg" width="360" alt="my cat, chief distraction officer" />
+<img src="./assets/cats/cat1.jpg" width="200" alt="cat 1" />
+<img src="./assets/cats/cat2.jpg" width="200" alt="cat 2" />
+<img src="./assets/cats/cat3.jpg" width="200" alt="cat 3" />
+<img src="./assets/cats/cat4.jpg" width="200" alt="cat 4" />
 
 </div>
