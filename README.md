@@ -76,8 +76,28 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — cognitive self-modeling from git history + note embeddings. Same methodology as xAPI, personal scale. Surfaces patterns you weren't aware of.
 - 🔌 **The first community plugins in the [career-ops](https://github.com/santifer/career-ops) registry** — a five-plugin suite, all zero-key and local-first: [google-calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar) (interviews from your calendar), [linkedin-alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts) (job URLs from Gmail alerts), [outlook-interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews) (invite detection via MS Graph), [tavily](https://github.com/Schlaflied/career-ops-plugin-tavily) (search/liveness), [obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian) (tracker → Dataview frontmatter notes, zero network). *"You're helping seed the ecosystem"* — the maintainer.
-- 🤝 Contributor @ [career-ops](https://github.com/santifer/career-ops) core (50K+ ★) — **11 merged PRs**, spanning the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918)) and its phase-1 implementation ([#919](https://github.com/santifer/career-ops/pull/919)), the reverse-ATS discovery module ([#746](https://github.com/santifer/career-ops/pull/746)), zero-LLM STAR story matching ([#1230](https://github.com/santifer/career-ops/pull/1230)), ATS auto-fill for Greenhouse/Ashby/Lever ([#1248](https://github.com/santifer/career-ops/pull/1248)), and algorithmic-monoculture-aware channel yield analysis ([#1405](https://github.com/santifer/career-ops/pull/1405)); now leading the storage-layer track
-- 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, three PRs in review
+- 🤝 Contributor @ [career-ops](https://github.com/santifer/career-ops) core (58K+ ★) — **13 merged PRs**, spanning the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918)) and its phase-1 implementation ([#919](https://github.com/santifer/career-ops/pull/919)), the reverse-ATS discovery module ([#746](https://github.com/santifer/career-ops/pull/746)), zero-LLM STAR story matching ([#1230](https://github.com/santifer/career-ops/pull/1230)), ATS auto-fill for Greenhouse/Ashby/Lever ([#1248](https://github.com/santifer/career-ops/pull/1248)), algorithmic-monoculture-aware channel yield analysis ([#1405](https://github.com/santifer/career-ops/pull/1405)), a recruiting-process friction signal ([#1467](https://github.com/santifer/career-ops/pull/1467)), and transcript-driven targeting correction ([#961](https://github.com/santifer/career-ops/pull/961)); now leading the storage-layer track
+- 📐 Open RFC — [**Shared Behavioral-Signal Layer**](https://github.com/santifer/career-ops/issues/1506): a company-attributable, candidate-anonymous schema for pooling interview-process signal across candidates (follow-up to Discussion #904; adopted into the project's shared-layer direction)
+- 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, more PRs in review
+
+<details>
+<summary>all 13 merged career-ops PRs</summary>
+
+- [#746](https://github.com/santifer/career-ops/pull/746) — reverse-ATS job discovery (`scan-ats-full.mjs`)
+- [#919](https://github.com/santifer/career-ops/pull/919) — SQLite derived index over `applications.md` (RFC #918 phase 1)
+- [#1230](https://github.com/santifer/career-ops/pull/1230) — zero-LLM STAR story matcher from `story-bank.md`
+- [#1347](https://github.com/santifer/career-ops/pull/1347) — google-calendar plugin v0.1.0
+- [#1348](https://github.com/santifer/career-ops/pull/1348) — tavily plugin v0.1.0
+- [#1399](https://github.com/santifer/career-ops/pull/1399) — obsidian plugin v0.1.0
+- [#1248](https://github.com/santifer/career-ops/pull/1248) — ATS auto-fill for Greenhouse / Ashby / Lever (prepare, don't submit)
+- [#1259](https://github.com/santifer/career-ops/pull/1259) — match-star fixtures + keyword-scorer assertions
+- [#1405](https://github.com/santifer/career-ops/pull/1405) — ATS channel yield analysis (algorithmic-monoculture aware)
+- [#961](https://github.com/santifer/career-ops/pull/961) — transcript-driven targeting correction
+- [#1467](https://github.com/santifer/career-ops/pull/1467) — recruiting-process friction signal
+- [#1503](https://github.com/santifer/career-ops/pull/1503) — `toBashPath()` cygpath-before-wslpath fix (WSL/Cygwin)
+- [#1525](https://github.com/santifer/career-ops/pull/1525) — merge-tracker req/job-number guard on tier-3 fuzzy dedup
+
+</details>
 
 **How I build:**
 I don't write code from scratch. I architect systems, define agent behavior, and use AI to ship.
@@ -107,9 +127,10 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — 从git历史和笔记内容重建认知自我模型。xAPI是机构规模的版本，这是个人规模的。浮现你自己都没意识到的模式。
 
 **开源贡献：**
-- [career-ops](https://github.com/santifer/career-ops)（50K+ ★）插件生态 — **registry 里最早的社区插件全部出自我手**：日历、Gmail、Outlook、Tavily、Obsidian 五件套，全部 zero-key、local-first。maintainer 原话："You're helping seed the ecosystem."
-- [career-ops](https://github.com/santifer/career-ops) core — **11个PR已合并**，包括SQLite存储层架构RFC（#918）与phase 1实现（#919）、reverse-ATS发现模块（#746）、零LLM成本的STAR故事匹配（#1230）、Greenhouse/Ashby/Lever自动填表（#1248）、算法单一文化感知的渠道产出分析（#1405），现在负责storage-layer方向的社区review
-- [Hive](https://github.com/aden-hive/hive)（YC-backed）— SDR Agent已合并进v0.7.3，另有三个PR在review
+- [career-ops](https://github.com/santifer/career-ops)（58K+ ★）插件生态 — **registry 里最早的社区插件全部出自我手**：日历、Gmail、Outlook、Tavily、Obsidian 五件套，全部 zero-key、local-first。maintainer 原话："You're helping seed the ecosystem."
+- [career-ops](https://github.com/santifer/career-ops) core — **13个PR已合并**，包括SQLite存储层架构RFC（#918）与phase 1实现（#919）、reverse-ATS发现模块（#746）、零LLM成本的STAR故事匹配（#1230）、Greenhouse/Ashby/Lever自动填表（#1248）、算法单一文化感知的渠道产出分析（#1405）、招聘流程摩擦信号（#1467）、面试转录驱动的定向修正（#961），现在负责storage-layer方向的社区review
+- 📐 进行中的 RFC — [**Shared Behavioral-Signal Layer**](https://github.com/santifer/career-ops/issues/1506)：一套「公司可归因、候选人匿名」的 schema，把跨候选人的面试流程信号汇聚起来（承接 Discussion #904，已被采纳进项目的 shared-layer 方向）
+- [Hive](https://github.com/aden-hive/hive)（YC-backed）— SDR Agent已合并进v0.7.3，另有PR在review
 
 **我怎么造工具：**
 不从零写代码。设计系统架构，定义agent的边界和行为，然后让AI帮我造出来。
