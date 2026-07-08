@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C7686,100:689AAF&height=200&section=header&text=Schlaflied&fontColor=F4FAFB&fontSize=70&desc=I%20architect%20systems.%20AI%20ships%20them.&descSize=18&descAlignY=68" width="100%" />
 
 <a href="https://github.com/Schlaflied">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=689AAF&center=true&vCenter=true&width=620&lines=Instructional+designer%2C+not+a+coder;I+build+pipelines%2C+not+slide+decks;SCORM+measures+completion%2C+not+learning;Five+plugins%2C+one+ecosystem;I+architect+systems+%E2%80%94+AI+ships+them" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=689AAF&center=true&vCenter=true&width=620&lines=Instructional+designer%2C+not+a+coder;I+build+pipelines%2C+not+slide+decks;SCORM+measures+completion%2C+not+learning;Core+Contributor+%40+a+59K%E2%98%85+repo;First+use+to+core+in+10+weeks;I+architect+systems+%E2%80%94+AI+ships+them" alt="typing" />
 </a>
 
 <br/>
@@ -76,12 +76,12 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — cognitive self-modeling from git history + note embeddings. Same methodology as xAPI, personal scale. Surfaces patterns you weren't aware of.
 - 🔌 **The first community plugins in the [career-ops](https://github.com/santifer/career-ops) registry** — a five-plugin suite, all zero-key and local-first: [google-calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar) (interviews from your calendar), [linkedin-alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts) (job URLs from Gmail alerts), [outlook-interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews) (invite detection via MS Graph), [tavily](https://github.com/Schlaflied/career-ops-plugin-tavily) (search/liveness), [obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian) (tracker → Dataview frontmatter notes, zero network). *"You're helping seed the ecosystem"* — the maintainer.
-- 🤝 Contributor @ [career-ops](https://github.com/santifer/career-ops) core (58K+ ★) — **20 merged PRs**, spanning the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918)) and its phase-1 implementation ([#919](https://github.com/santifer/career-ops/pull/919)), the reverse-ATS discovery module ([#746](https://github.com/santifer/career-ops/pull/746)), zero-LLM STAR story matching ([#1230](https://github.com/santifer/career-ops/pull/1230)), ATS auto-fill for Greenhouse/Ashby/Lever ([#1248](https://github.com/santifer/career-ops/pull/1248)), algorithmic-monoculture-aware channel yield analysis ([#1405](https://github.com/santifer/career-ops/pull/1405)), a recruiting-process friction signal ([#1467](https://github.com/santifer/career-ops/pull/1467)), transcript-driven targeting correction ([#961](https://github.com/santifer/career-ops/pull/961)), a post-interview company red-flag detector ([#1233](https://github.com/santifer/career-ops/pull/1233)), and an employee-vs-contractor classification warning ([#1631](https://github.com/santifer/career-ops/pull/1631)); now leading the storage-layer track
+- ⚔️ **Core Contributor** @ [career-ops](https://github.com/santifer/career-ops) (59K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. **22 merged PRs**, spanning the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918)) and its phase-1 implementation ([#919](https://github.com/santifer/career-ops/pull/919)), the conflict-free per-plugin registry architecture ([#1402](https://github.com/santifer/career-ops/pull/1402)), the reverse-ATS discovery module ([#746](https://github.com/santifer/career-ops/pull/746)), zero-LLM STAR story matching ([#1230](https://github.com/santifer/career-ops/pull/1230)), ATS auto-fill for Greenhouse/Ashby/Lever ([#1248](https://github.com/santifer/career-ops/pull/1248)), algorithmic-monoculture-aware channel yield analysis ([#1405](https://github.com/santifer/career-ops/pull/1405)), interview-invite fuzzy matching ([#1497](https://github.com/santifer/career-ops/pull/1497)), a recruiting-process friction signal ([#1467](https://github.com/santifer/career-ops/pull/1467)), transcript-driven targeting correction ([#961](https://github.com/santifer/career-ops/pull/961)), a post-interview company red-flag detector ([#1233](https://github.com/santifer/career-ops/pull/1233)), and an employee-vs-contractor classification warning ([#1631](https://github.com/santifer/career-ops/pull/1631)); now leading the storage-layer track and taking triage rounds
 - 📐 Open RFC — [**Shared Behavioral-Signal Layer**](https://github.com/santifer/career-ops/issues/1506): a company-attributable, candidate-anonymous schema for pooling interview-process signal across candidates (follow-up to Discussion #904; adopted into the project's shared-layer direction)
 - 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, more PRs in review
 
 <details>
-<summary>all 20 merged career-ops PRs</summary>
+<summary>all 22 merged career-ops PRs</summary>
 
 - [#746](https://github.com/santifer/career-ops/pull/746) — reverse-ATS job discovery (`scan-ats-full.mjs`)
 - [#919](https://github.com/santifer/career-ops/pull/919) — SQLite derived index over `applications.md` (RFC #918 phase 1)
@@ -103,6 +103,8 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - [#1635](https://github.com/santifer/career-ops/pull/1635) — reject unrecognized CLI flags instead of silently ignoring them
 - [#1638](https://github.com/santifer/career-ops/pull/1638) — scope `content_filter` per title-category via `by_title_keyword`
 - [#1647](https://github.com/santifer/career-ops/pull/1647) — `--allow-reorder` flag for intentional CV section reordering
+- [#1497](https://github.com/santifer/career-ops/pull/1497) — fuzzy-match interview-invite emails to tracker entries
+- [#1402](https://github.com/santifer/career-ops/pull/1402) — per-plugin registry files: conflict-free community registry PRs
 
 </details>
 
@@ -134,8 +136,9 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — 从git历史和笔记内容重建认知自我模型。xAPI是机构规模的版本，这是个人规模的。浮现你自己都没意识到的模式。
 
 **开源贡献：**
-- [career-ops](https://github.com/santifer/career-ops)（58K+ ★）插件生态 — **registry 里最早的社区插件全部出自我手**：日历、Gmail、Outlook、Tavily、Obsidian 五件套，全部 zero-key、local-first。maintainer 原话："You're helping seed the ecosystem."
-- [career-ops](https://github.com/santifer/career-ops) core — **20个PR已合并**，包括SQLite存储层架构RFC（#918）与phase 1实现（#919）、reverse-ATS发现模块（#746）、零LLM成本的STAR故事匹配（#1230）、Greenhouse/Ashby/Lever自动填表（#1248）、算法单一文化感知的渠道产出分析（#1405）、招聘流程摩擦信号（#1467）、面试转录驱动的定向修正（#961）、面试后公司红旗检测器（#1233）、员工/contractor身份误判预警（#1631），现在负责storage-layer方向的社区review
+- [career-ops](https://github.com/santifer/career-ops)（59K+ ★）— **具名 Core Contributor，全库三人之一，从第一次使用到被册封不到三个月**
+- [career-ops](https://github.com/santifer/career-ops) 插件生态 — **registry 里最早的社区插件全部出自我手**：日历、Gmail、Outlook、Tavily、Obsidian 五件套，全部 zero-key、local-first。maintainer 原话："You're helping seed the ecosystem."
+- [career-ops](https://github.com/santifer/career-ops) core — **22个PR已合并**，包括SQLite存储层架构RFC（#918）与phase 1实现（#919）、无冲突per-plugin registry架构（#1402）、reverse-ATS发现模块（#746）、零LLM成本的STAR故事匹配（#1230）、Greenhouse/Ashby/Lever自动填表（#1248）、算法单一文化感知的渠道产出分析（#1405）、面试邀约邮件模糊匹配（#1497）、招聘流程摩擦信号（#1467）、面试转录驱动的定向修正（#961）、面试后公司红旗检测器（#1233）、员工/contractor身份误判预警（#1631），现在负责storage-layer方向并参与issue triage
 - 📐 进行中的 RFC — [**Shared Behavioral-Signal Layer**](https://github.com/santifer/career-ops/issues/1506)：一套「公司可归因、候选人匿名」的 schema，把跨候选人的面试流程信号汇聚起来（承接 Discussion #904，已被采纳进项目的 shared-layer 方向）
 - [Hive](https://github.com/aden-hive/hive)（YC-backed）— SDR Agent已合并进v0.7.3，另有PR在review
 
