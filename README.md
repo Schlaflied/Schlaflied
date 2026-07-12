@@ -20,7 +20,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Schlaflied&show_icons=true&hide_border=true&theme=transparent&title_color=4C7686&icon_color=689AAF&text_color=333333" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schlaflied&hide_border=true&theme=transparent&ring=689AAF&fire=4C7686&currStreakLabel=689AAF" width="48%" />
 
 </div>
