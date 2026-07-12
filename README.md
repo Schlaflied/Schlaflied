@@ -20,7 +20,15 @@
 
 <br/>
 
+[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-29-4C7686?style=flat-square)](https://github.com/santifer/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
+[![career-ops stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&label=career-ops%20%E2%98%85&color=689AAF)](https://github.com/santifer/career-ops)
+[![Hive PR merged](https://img.shields.io/badge/Hive%20SDR%20Agent-merged%20v0.7.3-4C7686?style=flat-square)](https://github.com/aden-hive/hive)
+
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schlaflied&hide_border=true&theme=transparent&ring=689AAF&fire=4C7686&currStreakLabel=689AAF" width="48%" />
+
+*873 contributions since Nov 2024 — mostly commits and PRs to [career-ops](https://github.com/santifer/career-ops), [Plot-Ark](https://github.com/Schlaflied/Plot-Ark), and [Hive](https://github.com/aden-hive/hive) (see below for what each one is)*
 
 </div>
 
