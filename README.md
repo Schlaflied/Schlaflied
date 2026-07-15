@@ -20,7 +20,7 @@
 
 <br/>
 
-[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-33-4C7686?style=flat-square)](https://github.com/santifer/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
+[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-34-4C7686?style=flat-square)](https://github.com/santifer/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
 [![career-ops stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&label=career-ops%20%E2%98%85&color=689AAF)](https://github.com/santifer/career-ops)
 [![Hive PR merged](https://img.shields.io/badge/Hive%20SDR%20Agent-merged%20v0.7.3-4C7686?style=flat-square)](https://github.com/aden-hive/hive)
 
@@ -88,12 +88,13 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — cognitive self-modeling from git history + note embeddings. Same methodology as xAPI, personal scale. Surfaces patterns you weren't aware of.
 - 🔌 **The first community plugins in the [career-ops](https://github.com/santifer/career-ops) registry** — a five-plugin suite, all zero-key and local-first: [google-calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar) (interviews from your calendar), [linkedin-alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts) (job URLs from Gmail alerts), [outlook-interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews) (invite detection via MS Graph), [tavily](https://github.com/Schlaflied/career-ops-plugin-tavily) (search/liveness), [obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian) (tracker → Dataview frontmatter notes, zero network). *"You're helping seed the ecosystem"* — the maintainer.
-- ⚔️ **Core Contributor** @ [career-ops](https://github.com/santifer/career-ops) (59K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. **33 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918) → [#919](https://github.com/santifer/career-ops/pull/919)) and the conflict-free per-plugin registry architecture ([#1402](https://github.com/santifer/career-ops/pull/1402)) — full list below. Now leading the storage-layer track and taking triage rounds.
+- ⚔️ **Core Contributor** @ [career-ops](https://github.com/santifer/career-ops) (60K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. **34 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918) → [#919](https://github.com/santifer/career-ops/pull/919)) and the conflict-free per-plugin registry architecture ([#1402](https://github.com/santifer/career-ops/pull/1402)) — full list below. Now leading the storage-layer track and taking triage rounds.
+- 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — local-first, plain-language insurance policy reader. Upload a policy, get clause-by-clause explanations side by side with the original text, in the document's own language (中/EN). Translation only, never advice. Docker (React + Node.js + Python), agent-callable CLI, AGPL-3.0. v0.1.0 shipped same night it was designed.
 - 📐 Open RFC — [**Shared Behavioral-Signal Layer**](https://github.com/santifer/career-ops/issues/1506): a company-attributable, candidate-anonymous schema for pooling interview-process signal across candidates (follow-up to Discussion #904; adopted into the project's shared-layer direction)
 - 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, more PRs in review
 
 <details>
-<summary>all 33 merged career-ops PRs</summary>
+<summary>all 34 merged career-ops PRs</summary>
 
 - [#746](https://github.com/santifer/career-ops/pull/746) — reverse-ATS job discovery (`scan-ats-full.mjs`)
 - [#1685](https://github.com/santifer/career-ops/pull/1685) — flag JDs where AI/transformation buzzwords don't match company infrastructure
@@ -128,6 +129,7 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - [#1800](https://github.com/santifer/career-ops/pull/1800) — recognize "—" as a valid score-cell sentinel
 - [#1803](https://github.com/santifer/career-ops/pull/1803) — `paste-reply.mjs`: manual/no-Gmail input path into the reply-watch classification pipeline
 - [#1817](https://github.com/santifer/career-ops/pull/1817) — interview-prep URL entry path for a role that was never evaluated
+- [#1847](https://github.com/santifer/career-ops/pull/1847) — add `scan-ats-full.mjs` to AGENTS.md Main Files table
 
 </details>
 
@@ -159,9 +161,10 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — 从git历史和笔记内容重建认知自我模型。xAPI是机构规模的版本，这是个人规模的。浮现你自己都没意识到的模式。
 
 **开源贡献：**
-- [career-ops](https://github.com/santifer/career-ops)（59K+ ★）— **具名 Core Contributor，全库三人之一，从第一次使用到被册封不到三个月**
+- [career-ops](https://github.com/santifer/career-ops)（60K+ ★）— **具名 Core Contributor，全库三人之一，从第一次使用到被册封不到三个月**
 - [career-ops](https://github.com/santifer/career-ops) 插件生态 — **registry 里最早的社区插件全部出自我手**：日历、Gmail、Outlook、Tavily、Obsidian 五件套，全部 zero-key、local-first。maintainer 原话："You're helping seed the ecosystem."
-- [career-ops](https://github.com/santifer/career-ops) core — **33个PR已合并**，包括SQLite存储层架构RFC（#918→#919）、无冲突per-plugin registry架构（#1402），完整列表见上方英文区的可展开清单；现在负责storage-layer方向并参与issue triage
+- [career-ops](https://github.com/santifer/career-ops) core — **34个PR已合并**，包括SQLite存储层架构RFC（#918→#919）、无冲突per-plugin registry架构（#1402），完整列表见上方英文区的可展开清单；现在负责storage-layer方向并参与issue triage
+- 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — 本地优先的保险条款人话翻译器。上传保单，逐条对照原文和人话解释，用文档本身的语言输出（中/英）。只做翻译，不给购买建议。Docker部署（React + Node.js + Python），agent可直接调用的CLI，AGPL-3.0。从设计到v0.1.0上线，同一个晚上。
 - 📐 进行中的 RFC — [**Shared Behavioral-Signal Layer**](https://github.com/santifer/career-ops/issues/1506)：一套「公司可归因、候选人匿名」的 schema，把跨候选人的面试流程信号汇聚起来（承接 Discussion #904，已被采纳进项目的 shared-layer 方向）
 - [Hive](https://github.com/aden-hive/hive)（YC-backed）— SDR Agent已合并进v0.7.3，另有PR在review
 
