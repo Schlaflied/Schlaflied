@@ -20,7 +20,7 @@
 
 <br/>
 
-[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-43-4C7686?style=flat-square)](https://github.com/santifer/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
+[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-46-4C7686?style=flat-square)](https://github.com/santifer/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
 [![career-ops stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&label=career-ops%20%E2%98%85&color=689AAF)](https://github.com/santifer/career-ops)
 [![Hive PR merged](https://img.shields.io/badge/Hive%20SDR%20Agent-merged%20v0.7.3-4C7686?style=flat-square)](https://github.com/aden-hive/hive)
 
@@ -88,13 +88,13 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — cognitive self-modeling from git history + note embeddings. Same methodology as xAPI, personal scale. Surfaces patterns you weren't aware of.
 - 🔌 **The first community plugins in the [career-ops](https://github.com/santifer/career-ops) registry** — a five-plugin suite, all zero-key and local-first: [google-calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar) (interviews from your calendar), [linkedin-alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts) (job URLs from Gmail alerts), [outlook-interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews) (invite detection via MS Graph), [tavily](https://github.com/Schlaflied/career-ops-plugin-tavily) (search/liveness), [obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian) (tracker → Dataview frontmatter notes, zero network). *"You're helping seed the ecosystem"* — the maintainer.
-- ⚔️ **Core Contributor** @ [career-ops](https://github.com/santifer/career-ops) (60K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. **43 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918) → [#919](https://github.com/santifer/career-ops/pull/919)) and the conflict-free per-plugin registry architecture ([#1402](https://github.com/santifer/career-ops/pull/1402)) — full list below. Now leading the storage-layer track and taking triage rounds.
+- ⚔️ **Core Contributor** @ [career-ops](https://github.com/santifer/career-ops) (60K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. **46 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918) → [#919](https://github.com/santifer/career-ops/pull/919)) and the conflict-free per-plugin registry architecture ([#1402](https://github.com/santifer/career-ops/pull/1402)) — full list below. Now leading the storage-layer track and taking triage rounds.
 - 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — local-first, plain-language insurance policy reader. Upload a policy, get clause-by-clause explanations side by side with the original text, in the document's own language (中/EN). Translation only, never advice. Docker (React + Node.js + Python), agent-callable CLI, AGPL-3.0. v0.1.0 shipped same night it was designed.
 - 📐 Open RFC — [**Shared Behavioral-Signal Layer**](https://github.com/santifer/career-ops/issues/1506): a company-attributable, candidate-anonymous schema for pooling interview-process signal across candidates (follow-up to Discussion #904; adopted into the project's shared-layer direction)
 - 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, more PRs in review
 
 <details>
-<summary>all 43 merged career-ops PRs</summary>
+<summary>all 46 merged career-ops PRs</summary>
 
 - [#746](https://github.com/santifer/career-ops/pull/746) — reverse-ATS job discovery (`scan-ats-full.mjs`)
 - [#919](https://github.com/santifer/career-ops/pull/919) — SQLite derived index over `applications.md` (RFC #918 phase 1)
@@ -123,6 +123,7 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - [#1687](https://github.com/santifer/career-ops/pull/1687) — skills-assessment event log with candidate-observed staleness signal (`assessment-log.mjs`)
 - [#1705](https://github.com/santifer/career-ops/pull/1705) — detect and prevent duplicate tracker # numbers (data-integrity hardening)
 - [#1731](https://github.com/santifer/career-ops/pull/1731) — convert a screenshot into a PDF for ATS uploads (`img-to-pdf.mjs`)
+- [#1738](https://github.com/santifer/career-ops/pull/1738) — unified Risk Summary block joining the five company-risk signals
 - [#1745](https://github.com/santifer/career-ops/pull/1745) — ATS-broken fallback email — recover a stuck application when the pipeline machinery jams
 - [#1748](https://github.com/santifer/career-ops/pull/1748) — user-owned company blacklist respected by scan and evaluation
 - [#1772](https://github.com/santifer/career-ops/pull/1772) — normalize CRLF at read time for doc assertions in `test-all.mjs`
@@ -130,6 +131,7 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - [#1803](https://github.com/santifer/career-ops/pull/1803) — `paste-reply.mjs`: manual/no-Gmail input path into the reply-watch classification pipeline
 - [#1817](https://github.com/santifer/career-ops/pull/1817) — interview-prep URL entry path for a role that was never evaluated
 - [#1847](https://github.com/santifer/career-ops/pull/1847) — add `scan-ats-full.mjs` to AGENTS.md Main Files table
+- [#1848](https://github.com/santifer/career-ops/pull/1848) — wire `content_filter` (incl. `by_title_keyword` scoping) into reverse ATS scans
 - [#1853](https://github.com/santifer/career-ops/pull/1853) — track compensation stated per interview round (`salary-gap.mjs`)
 - [#1856](https://github.com/santifer/career-ops/pull/1856) — interview-redflag → suggest a blacklist entry at the Reconsider tier
 - [#1858](https://github.com/santifer/career-ops/pull/1858) — wire Panel Intel table into interview/plan when later-round panelists are named
@@ -137,6 +139,7 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - [#1872](https://github.com/santifer/career-ops/pull/1872) — surface post-submission resume verification for SuccessFactors-family ATS
 - [#1921](https://github.com/santifer/career-ops/pull/1921) — warn candidate to check employer ATS profile before reapplying to a repeat company
 - [#1936](https://github.com/santifer/career-ops/pull/1936) — Block G signal: benefits/employment terminology country mismatch
+- [#1938](https://github.com/santifer/career-ops/pull/1938) — Block G signal: third-party platform location tag mismatch
 - [#1941](https://github.com/santifer/career-ops/pull/1941) — cross-reference coffee chat notes against interview transcripts
 - [#1943](https://github.com/santifer/career-ops/pull/1943) — flag scope/compensation mismatch when interview probes off-JD skills at entry-level pay
 
