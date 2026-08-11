@@ -20,7 +20,7 @@
 
 <br/>
 
-[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-60-4C7686?style=flat-square)](https://github.com/santifer/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
+[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-65-4C7686?style=flat-square)](https://github.com/santifer/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
 [![career-ops stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&label=career-ops%20%E2%98%85&color=689AAF)](https://github.com/santifer/career-ops)
 [![Hive PR merged](https://img.shields.io/badge/Hive%20SDR%20Agent-merged%20v0.7.3-4C7686?style=flat-square)](https://github.com/aden-hive/hive)
 
@@ -88,13 +88,13 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — cognitive self-modeling from git history + note embeddings. Same methodology as xAPI, personal scale. Surfaces patterns you weren't aware of.
 - 🔌 **The first community plugins in the [career-ops](https://github.com/santifer/career-ops) registry** — a five-plugin suite, all zero-key and local-first: [google-calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar) (interviews from your calendar), [linkedin-alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts) (job URLs from Gmail alerts), [outlook-interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews) (invite detection via MS Graph), [tavily](https://github.com/Schlaflied/career-ops-plugin-tavily) (search/liveness), [obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian) (tracker → Dataview frontmatter notes, zero network). *"You're helping seed the ecosystem"* — the maintainer.
-- ⚔️ **Core Contributor** @ [career-ops](https://github.com/santifer/career-ops) (60K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. **60 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918) → [#919](https://github.com/santifer/career-ops/pull/919)), the conflict-free per-plugin registry architecture ([#1402](https://github.com/santifer/career-ops/pull/1402)), and six shipped members of the jurisdiction-compliance-lens series ([#2020](https://github.com/santifer/career-ops/pull/2020)/[#2029](https://github.com/santifer/career-ops/pull/2029)/[#2031](https://github.com/santifer/career-ops/pull/2031)/[#2034](https://github.com/santifer/career-ops/pull/2034)/[#2038](https://github.com/santifer/career-ops/pull/2038)/[#2041](https://github.com/santifer/career-ops/pull/2041)) — full list below. Now leading the storage-layer track and taking triage rounds.
+- ⚔️ **Core Contributor** @ [career-ops](https://github.com/santifer/career-ops) (60K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. **65 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918) → [#919](https://github.com/santifer/career-ops/pull/919)), the conflict-free per-plugin registry architecture ([#1402](https://github.com/santifer/career-ops/pull/1402)), and ten shipped members of the jurisdiction-compliance-lens series ([#2014](https://github.com/santifer/career-ops/pull/2014)/[#2020](https://github.com/santifer/career-ops/pull/2020)/[#2021](https://github.com/santifer/career-ops/pull/2021)/[#2027](https://github.com/santifer/career-ops/pull/2027)/[#2029](https://github.com/santifer/career-ops/pull/2029)/[#2031](https://github.com/santifer/career-ops/pull/2031)/[#2034](https://github.com/santifer/career-ops/pull/2034)/[#2038](https://github.com/santifer/career-ops/pull/2038)/[#2041](https://github.com/santifer/career-ops/pull/2041)/[#2042](https://github.com/santifer/career-ops/pull/2042)) — full list below. Now leading the storage-layer track and taking triage rounds.
 - 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — local-first, plain-language insurance policy reader. Upload a policy, get clause-by-clause explanations side by side with the original text, in the document's own language (中/EN). Translation only, never advice. Docker (React + Node.js + Python), agent-callable CLI, AGPL-3.0. v0.1.0 shipped same night it was designed.
 - 📐 Open RFC — [**Shared Behavioral-Signal Layer**](https://github.com/santifer/career-ops/issues/1506): a company-attributable, candidate-anonymous schema for pooling interview-process signal across candidates (follow-up to Discussion #904; adopted into the project's shared-layer direction)
 - 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, more PRs in review
 
 <details>
-<summary>all 60 merged career-ops PRs</summary>
+<summary>all 65 merged career-ops PRs</summary>
 
 - [#746](https://github.com/santifer/career-ops/pull/746) — reverse-ATS job discovery (`scan-ats-full.mjs`)
 - [#919](https://github.com/santifer/career-ops/pull/919) — SQLite derived index over `applications.md` (RFC #918 phase 1)
@@ -143,14 +143,19 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - [#1941](https://github.com/santifer/career-ops/pull/1941) — cross-reference coffee chat notes against interview transcripts
 - [#1943](https://github.com/santifer/career-ops/pull/1943) — flag scope/compensation mismatch when interview probes off-JD skills at entry-level pay
 - [#1703](https://github.com/santifer/career-ops/pull/1703) — `fix-slugs.mjs`: auto-write ATS slug corrections back to `portals.yml`
+- [#2014](https://github.com/santifer/career-ops/pull/2014) — rejection-latency signal: statutory/courtesy post-interview response-time thresholds (suggestion-only)
 - [#2020](https://github.com/santifer/career-ops/pull/2020) — Block G signal: jurisdiction-prohibited posting content
+- [#2021](https://github.com/santifer/career-ops/pull/2021) — pay-transparency disclosure signal: jurisdiction range-width cap + missing-range corroborating signal
+- [#2027](https://github.com/santifer/career-ops/pull/2027) — minimum-wage floor check: jurisdiction table + date-aware wage-floor signal
 - [#2029](https://github.com/santifer/career-ops/pull/2029) — offer-prep jurisdiction-aware restrictive-covenant notes + lawyer questions
 - [#2031](https://github.com/santifer/career-ops/pull/2031) — interview-redflag: protected-grounds question detection from a jurisdiction table
 - [#2034](https://github.com/santifer/career-ops/pull/2034) — Block G signal: immigration-status requirement overreach
 - [#2038](https://github.com/santifer/career-ops/pull/2038) — `check-table-freshness.mjs`: staleness validator for jurisdiction-keyed tables
 - [#2041](https://github.com/santifer/career-ops/pull/2041) — agency/recruiter licensing check — jurisdiction table + registry pointer
+- [#2042](https://github.com/santifer/career-ops/pull/2042) — offer-prep sub-statutory terms check: jurisdiction floors table + statutory-context notes + lawyer questions
 - [#2095](https://github.com/santifer/career-ops/pull/2095) — reverse-ATS country-eligibility filter: US-only vs. US+Canada remote postings from JD body text
 - [#2097](https://github.com/santifer/career-ops/pull/2097) — wire interview-prep's sourced-question research into `interview/plan`
+- [#2100](https://github.com/santifer/career-ops/pull/2100) — invite-match: recognize rejection emails, not just interview invites
 - [#2122](https://github.com/santifer/career-ops/pull/2122) — `interview/debrief`: support debriefing directly from an existing transcript
 - [#2124](https://github.com/santifer/career-ops/pull/2124) — wire followup-cadence's cold classification into `stats.mjs`'s `activeApps`
 - [#2127](https://github.com/santifer/career-ops/pull/2127) — `interview/debrief`: correct contradicted facts in the prep file in place
