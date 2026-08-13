@@ -94,56 +94,15 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, more PRs in review
 
 <details>
-<summary>all 70 merged career-ops PRs</summary>
+<summary>all 70 merged career-ops PRs, grouped</summary>
 
-- [#746](https://github.com/santifer/career-ops/pull/746) — reverse-ATS job discovery (`scan-ats-full.mjs`)
-- [#919](https://github.com/santifer/career-ops/pull/919) — SQLite derived index over `applications.md` (RFC #918 phase 1)
-- [#961](https://github.com/santifer/career-ops/pull/961) — transcript-driven targeting correction
-- [#1230](https://github.com/santifer/career-ops/pull/1230) — zero-LLM STAR story matcher from `story-bank.md`
-- [#1233](https://github.com/santifer/career-ops/pull/1233) — post-interview company red-flag detector from transcript signal
-- [#1248](https://github.com/santifer/career-ops/pull/1248) — ATS auto-fill for Greenhouse / Ashby / Lever (prepare, don't submit)
-- [#1259](https://github.com/santifer/career-ops/pull/1259) — match-star fixtures + keyword-scorer assertions
-- [#1347](https://github.com/santifer/career-ops/pull/1347) — google-calendar plugin v0.1.0
-- [#1348](https://github.com/santifer/career-ops/pull/1348) — tavily plugin v0.1.0
-- [#1399](https://github.com/santifer/career-ops/pull/1399) — obsidian plugin v0.1.0
-- [#1402](https://github.com/santifer/career-ops/pull/1402) — per-plugin registry files: conflict-free community registry PRs
-- [#1405](https://github.com/santifer/career-ops/pull/1405) — ATS channel yield analysis (algorithmic-monoculture aware)
-- [#1467](https://github.com/santifer/career-ops/pull/1467) — recruiting-process friction signal
-- [#1497](https://github.com/santifer/career-ops/pull/1497) — fuzzy-match interview-invite emails to tracker entries
-- [#1502](https://github.com/santifer/career-ops/pull/1502) — structured Panel Intel table for named panelists in panel-mixed rounds
-- [#1503](https://github.com/santifer/career-ops/pull/1503) — `toBashPath()` cygpath-before-wslpath fix (WSL/Cygwin)
-- [#1505](https://github.com/santifer/career-ops/pull/1505) — `tracker-sync-check.mjs`: applications.md ↔ active-interviews.md status sync checker
-- [#1525](https://github.com/santifer/career-ops/pull/1525) — merge-tracker req/job-number guard on tier-3 fuzzy dedup
-- [#1557](https://github.com/santifer/career-ops/pull/1557) — candidate contact-channel preference field for outreach/email drafts
-- [#1559](https://github.com/santifer/career-ops/pull/1559) — JD skill-gap checker: classify JD-required skills before CV generation, zero-LLM
+**Jurisdiction compliance & posting-legitimacy signals (16)**
 - [#1631](https://github.com/santifer/career-ops/pull/1631) — employee-vs-contractor classification warning signal
-- [#1635](https://github.com/santifer/career-ops/pull/1635) — reject unrecognized CLI flags instead of silently ignoring them
-- [#1638](https://github.com/santifer/career-ops/pull/1638) — scope `content_filter` per title-category via `by_title_keyword`
-- [#1647](https://github.com/santifer/career-ops/pull/1647) — `--allow-reorder` flag for intentional CV section reordering
 - [#1685](https://github.com/santifer/career-ops/pull/1685) — flag JDs where AI/transformation buzzwords don't match company infrastructure
-- [#1687](https://github.com/santifer/career-ops/pull/1687) — skills-assessment event log with candidate-observed staleness signal (`assessment-log.mjs`)
-- [#1705](https://github.com/santifer/career-ops/pull/1705) — detect and prevent duplicate tracker # numbers (data-integrity hardening)
-- [#1731](https://github.com/santifer/career-ops/pull/1731) — convert a screenshot into a PDF for ATS uploads (`img-to-pdf.mjs`)
-- [#1738](https://github.com/santifer/career-ops/pull/1738) — unified Risk Summary block joining the five company-risk signals
-- [#1745](https://github.com/santifer/career-ops/pull/1745) — ATS-broken fallback email — recover a stuck application when the pipeline machinery jams
 - [#1748](https://github.com/santifer/career-ops/pull/1748) — user-owned company blacklist respected by scan and evaluation
-- [#1772](https://github.com/santifer/career-ops/pull/1772) — normalize CRLF at read time for doc assertions in `test-all.mjs`
-- [#1800](https://github.com/santifer/career-ops/pull/1800) — recognize "—" as a valid score-cell sentinel
-- [#1803](https://github.com/santifer/career-ops/pull/1803) — `paste-reply.mjs`: manual/no-Gmail input path into the reply-watch classification pipeline
-- [#1817](https://github.com/santifer/career-ops/pull/1817) — interview-prep URL entry path for a role that was never evaluated
-- [#1847](https://github.com/santifer/career-ops/pull/1847) — add `scan-ats-full.mjs` to AGENTS.md Main Files table
-- [#1848](https://github.com/santifer/career-ops/pull/1848) — wire `content_filter` (incl. `by_title_keyword` scoping) into reverse ATS scans
-- [#1853](https://github.com/santifer/career-ops/pull/1853) — track compensation stated per interview round (`salary-gap.mjs`)
 - [#1856](https://github.com/santifer/career-ops/pull/1856) — interview-redflag → suggest a blacklist entry at the Reconsider tier
-- [#1858](https://github.com/santifer/career-ops/pull/1858) — wire Panel Intel table into interview/plan when later-round panelists are named
-- [#1860](https://github.com/santifer/career-ops/pull/1860) — confirmed-time no-show follow-up email scenario
-- [#1872](https://github.com/santifer/career-ops/pull/1872) — surface post-submission resume verification for SuccessFactors-family ATS
-- [#1921](https://github.com/santifer/career-ops/pull/1921) — warn candidate to check employer ATS profile before reapplying to a repeat company
 - [#1936](https://github.com/santifer/career-ops/pull/1936) — Block G signal: benefits/employment terminology country mismatch
 - [#1938](https://github.com/santifer/career-ops/pull/1938) — Block G signal: third-party platform location tag mismatch
-- [#1941](https://github.com/santifer/career-ops/pull/1941) — cross-reference coffee chat notes against interview transcripts
-- [#1943](https://github.com/santifer/career-ops/pull/1943) — flag scope/compensation mismatch when interview probes off-JD skills at entry-level pay
-- [#1703](https://github.com/santifer/career-ops/pull/1703) — `fix-slugs.mjs`: auto-write ATS slug corrections back to `portals.yml`
 - [#2014](https://github.com/santifer/career-ops/pull/2014) — rejection-latency signal: statutory/courtesy post-interview response-time thresholds (suggestion-only)
 - [#2020](https://github.com/santifer/career-ops/pull/2020) — Block G signal: jurisdiction-prohibited posting content
 - [#2021](https://github.com/santifer/career-ops/pull/2021) — pay-transparency disclosure signal: jurisdiction range-width cap + missing-range corroborating signal
@@ -154,7 +113,15 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - [#2038](https://github.com/santifer/career-ops/pull/2038) — `check-table-freshness.mjs`: staleness validator for jurisdiction-keyed tables
 - [#2041](https://github.com/santifer/career-ops/pull/2041) — agency/recruiter licensing check — jurisdiction table + registry pointer
 - [#2042](https://github.com/santifer/career-ops/pull/2042) — offer-prep sub-statutory terms check: jurisdiction floors table + statutory-context notes + lawyer questions
-- [#2095](https://github.com/santifer/career-ops/pull/2095) — reverse-ATS country-eligibility filter: US-only vs. US+Canada remote postings from JD body text
+
+**Interview prep, debrief & scheduling (14)**
+- [#1233](https://github.com/santifer/career-ops/pull/1233) — post-interview company red-flag detector from transcript signal
+- [#1497](https://github.com/santifer/career-ops/pull/1497) — fuzzy-match interview-invite emails to tracker entries
+- [#1502](https://github.com/santifer/career-ops/pull/1502) — structured Panel Intel table for named panelists in panel-mixed rounds
+- [#1858](https://github.com/santifer/career-ops/pull/1858) — wire Panel Intel table into interview/plan when later-round panelists are named
+- [#1860](https://github.com/santifer/career-ops/pull/1860) — confirmed-time no-show follow-up email scenario
+- [#1941](https://github.com/santifer/career-ops/pull/1941) — cross-reference coffee chat notes against interview transcripts
+- [#1943](https://github.com/santifer/career-ops/pull/1943) — flag scope/compensation mismatch when interview probes off-JD skills at entry-level pay
 - [#2097](https://github.com/santifer/career-ops/pull/2097) — wire interview-prep's sourced-question research into `interview/plan`
 - [#2100](https://github.com/santifer/career-ops/pull/2100) — invite-match: recognize rejection emails, not just interview invites
 - [#2122](https://github.com/santifer/career-ops/pull/2122) — `interview/debrief`: support debriefing directly from an existing transcript
@@ -162,10 +129,56 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - [#2127](https://github.com/santifer/career-ops/pull/2127) — `interview/debrief`: correct contradicted facts in the prep file in place
 - [#2128](https://github.com/santifer/career-ops/pull/2128) — interview-prep: detect call platform (phone/Zoom/Teams/Meet) from invite text
 - [#2130](https://github.com/santifer/career-ops/pull/2130) — weekly interview digest aggregator
-- [#2672](https://github.com/santifer/career-ops/pull/2672) — reply-matcher: require corroboration for partial role-title matches (fixes cross-application false-positive misattribution)
+
+**Application pipeline & tracker integrity (14)**
+- [#919](https://github.com/santifer/career-ops/pull/919) — SQLite derived index over `applications.md` (RFC #918 phase 1)
+- [#961](https://github.com/santifer/career-ops/pull/961) — transcript-driven targeting correction
+- [#1467](https://github.com/santifer/career-ops/pull/1467) — recruiting-process friction signal
+- [#1525](https://github.com/santifer/career-ops/pull/1525) — merge-tracker req/job-number guard on tier-3 fuzzy dedup
+- [#1557](https://github.com/santifer/career-ops/pull/1557) — candidate contact-channel preference field for outreach/email drafts
+- [#1687](https://github.com/santifer/career-ops/pull/1687) — skills-assessment event log with candidate-observed staleness signal (`assessment-log.mjs`)
+- [#1703](https://github.com/santifer/career-ops/pull/1703) — `fix-slugs.mjs`: auto-write ATS slug corrections back to `portals.yml`
+- [#1738](https://github.com/santifer/career-ops/pull/1738) — unified Risk Summary block joining the five company-risk signals
+- [#1745](https://github.com/santifer/career-ops/pull/1745) — ATS-broken fallback email — recover a stuck application when the pipeline machinery jams
+- [#1803](https://github.com/santifer/career-ops/pull/1803) — `paste-reply.mjs`: manual/no-Gmail input path into the reply-watch classification pipeline
+- [#1817](https://github.com/santifer/career-ops/pull/1817) — interview-prep URL entry path for a role that was never evaluated
+- [#1853](https://github.com/santifer/career-ops/pull/1853) — track compensation stated per interview round (`salary-gap.mjs`)
 - [#2652](https://github.com/santifer/career-ops/pull/2652) — process-quality: documented example friction patterns for the `[process-friction]` tag
+- [#2672](https://github.com/santifer/career-ops/pull/2672) — reply-matcher: require corroboration for partial role-title matches (fixes cross-application false-positive misattribution)
+
+**CLI robustness & test hardening (8)**
+- [#1503](https://github.com/santifer/career-ops/pull/1503) — `toBashPath()` cygpath-before-wslpath fix (WSL/Cygwin)
+- [#1505](https://github.com/santifer/career-ops/pull/1505) — `tracker-sync-check.mjs`: applications.md ↔ active-interviews.md status sync checker
+- [#1635](https://github.com/santifer/career-ops/pull/1635) — reject unrecognized CLI flags instead of silently ignoring them
+- [#1705](https://github.com/santifer/career-ops/pull/1705) — detect and prevent duplicate tracker # numbers (data-integrity hardening)
+- [#1772](https://github.com/santifer/career-ops/pull/1772) — normalize CRLF at read time for doc assertions in `test-all.mjs`
+- [#1800](https://github.com/santifer/career-ops/pull/1800) — recognize "—" as a valid score-cell sentinel
 - [#2745](https://github.com/santifer/career-ops/pull/2745) — reply-watch: reject unrecognized CLI flags instead of treating them as a candidates path
 - [#2746](https://github.com/santifer/career-ops/pull/2746) — dedup-tracker: reject unrecognized flags instead of silently live-running
+
+**ATS discovery & scanning (9)**
+- [#746](https://github.com/santifer/career-ops/pull/746) — reverse-ATS job discovery (`scan-ats-full.mjs`)
+- [#1248](https://github.com/santifer/career-ops/pull/1248) — ATS auto-fill for Greenhouse / Ashby / Lever (prepare, don't submit)
+- [#1405](https://github.com/santifer/career-ops/pull/1405) — ATS channel yield analysis (algorithmic-monoculture aware)
+- [#1638](https://github.com/santifer/career-ops/pull/1638) — scope `content_filter` per title-category via `by_title_keyword`
+- [#1847](https://github.com/santifer/career-ops/pull/1847) — add `scan-ats-full.mjs` to AGENTS.md Main Files table
+- [#1848](https://github.com/santifer/career-ops/pull/1848) — wire `content_filter` (incl. `by_title_keyword` scoping) into reverse ATS scans
+- [#1872](https://github.com/santifer/career-ops/pull/1872) — surface post-submission resume verification for SuccessFactors-family ATS
+- [#1921](https://github.com/santifer/career-ops/pull/1921) — warn candidate to check employer ATS profile before reapplying to a repeat company
+- [#2095](https://github.com/santifer/career-ops/pull/2095) — reverse-ATS country-eligibility filter: US-only vs. US+Canada remote postings from JD body text
+
+**CV, matching & targeting (5)**
+- [#1230](https://github.com/santifer/career-ops/pull/1230) — zero-LLM STAR story matcher from `story-bank.md`
+- [#1259](https://github.com/santifer/career-ops/pull/1259) — match-star fixtures + keyword-scorer assertions
+- [#1559](https://github.com/santifer/career-ops/pull/1559) — JD skill-gap checker: classify JD-required skills before CV generation, zero-LLM
+- [#1647](https://github.com/santifer/career-ops/pull/1647) — `--allow-reorder` flag for intentional CV section reordering
+- [#1731](https://github.com/santifer/career-ops/pull/1731) — convert a screenshot into a PDF for ATS uploads (`img-to-pdf.mjs`)
+
+**Plugins & core architecture (4)**
+- [#1347](https://github.com/santifer/career-ops/pull/1347) — google-calendar plugin v0.1.0
+- [#1348](https://github.com/santifer/career-ops/pull/1348) — tavily plugin v0.1.0
+- [#1399](https://github.com/santifer/career-ops/pull/1399) — obsidian plugin v0.1.0
+- [#1402](https://github.com/santifer/career-ops/pull/1402) — per-plugin registry files: conflict-free community registry PRs
 
 </details>
 
