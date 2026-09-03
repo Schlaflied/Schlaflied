@@ -20,15 +20,15 @@
 
 <br/>
 
-[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-75-4C7686?style=flat-square)](https://github.com/santifer/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
-[![career-ops stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&label=career-ops%20%E2%98%85&color=689AAF)](https://github.com/santifer/career-ops)
+[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-78-4C7686?style=flat-square)](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
+[![career-ops stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&label=career-ops%20%E2%98%85&color=689AAF)](https://github.com/career-ops-hq/career-ops)
 [![Hive PR merged](https://img.shields.io/badge/Hive%20SDR%20Agent-merged%20v0.7.3-4C7686?style=flat-square)](https://github.com/aden-hive/hive)
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schlaflied&hide_border=true&theme=transparent&ring=689AAF&fire=4C7686&currStreakLabel=689AAF" width="48%" />
 
-*873 contributions since Nov 2024 — mostly commits and PRs to [career-ops](https://github.com/santifer/career-ops), [Plot-Ark](https://github.com/Schlaflied/Plot-Ark), and [Hive](https://github.com/aden-hive/hive) (see below for what each one is)*
+*873 contributions since Nov 2024 — mostly commits and PRs to [career-ops](https://github.com/career-ops-hq/career-ops), [Plot-Ark](https://github.com/Schlaflied/Plot-Ark), and [Hive](https://github.com/aden-hive/hive) (see below for what each one is)*
 
 </div>
 
@@ -87,104 +87,106 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 **Currently shipping:**
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — cognitive self-modeling from git history + note embeddings. Same methodology as xAPI, personal scale. Surfaces patterns you weren't aware of.
-- 🔌 **The first community plugins in the [career-ops](https://github.com/santifer/career-ops) registry** — a five-plugin suite, all zero-key and local-first: [google-calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar) (interviews from your calendar), [linkedin-alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts) (job URLs from Gmail alerts), [outlook-interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews) (invite detection via MS Graph), [tavily](https://github.com/Schlaflied/career-ops-plugin-tavily) (search/liveness), [obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian) (tracker → Dataview frontmatter notes, zero network). *"You're helping seed the ecosystem"* — the maintainer.
-- ⚔️ **Core Contributor** @ [career-ops](https://github.com/santifer/career-ops) (60K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. **76 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/santifer/career-ops/issues/918) → [#919](https://github.com/santifer/career-ops/pull/919)), the conflict-free per-plugin registry architecture ([#1402](https://github.com/santifer/career-ops/pull/1402)), and ten shipped members of the jurisdiction-compliance-lens series ([#2014](https://github.com/santifer/career-ops/pull/2014)/[#2020](https://github.com/santifer/career-ops/pull/2020)/[#2021](https://github.com/santifer/career-ops/pull/2021)/[#2027](https://github.com/santifer/career-ops/pull/2027)/[#2029](https://github.com/santifer/career-ops/pull/2029)/[#2031](https://github.com/santifer/career-ops/pull/2031)/[#2034](https://github.com/santifer/career-ops/pull/2034)/[#2038](https://github.com/santifer/career-ops/pull/2038)/[#2041](https://github.com/santifer/career-ops/pull/2041)/[#2042](https://github.com/santifer/career-ops/pull/2042)) — full list below. Now leading the storage-layer track and taking triage rounds.
+- 🔌 **The first community plugins in the [career-ops](https://github.com/career-ops-hq/career-ops) registry** — a five-plugin suite, all zero-key and local-first: [google-calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar) (interviews from your calendar), [linkedin-alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts) (job URLs from Gmail alerts), [outlook-interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews) (invite detection via MS Graph), [tavily](https://github.com/Schlaflied/career-ops-plugin-tavily) (search/liveness), [obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian) (tracker → Dataview frontmatter notes, zero network). *"You're helping seed the ecosystem"* — the maintainer.
+- ⚔️ **Core Contributor** @ [career-ops](https://github.com/career-ops-hq/career-ops) (60K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. Member of the org's `maintainers` GitHub team. **78 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/career-ops-hq/career-ops/issues/918) → [#919](https://github.com/career-ops-hq/career-ops/pull/919)), the conflict-free per-plugin registry architecture ([#1402](https://github.com/career-ops-hq/career-ops/pull/1402)), and ten shipped members of the jurisdiction-compliance-lens series ([#2014](https://github.com/career-ops-hq/career-ops/pull/2014)/[#2020](https://github.com/career-ops-hq/career-ops/pull/2020)/[#2021](https://github.com/career-ops-hq/career-ops/pull/2021)/[#2027](https://github.com/career-ops-hq/career-ops/pull/2027)/[#2029](https://github.com/career-ops-hq/career-ops/pull/2029)/[#2031](https://github.com/career-ops-hq/career-ops/pull/2031)/[#2034](https://github.com/career-ops-hq/career-ops/pull/2034)/[#2038](https://github.com/career-ops-hq/career-ops/pull/2038)/[#2041](https://github.com/career-ops-hq/career-ops/pull/2041)/[#2042](https://github.com/career-ops-hq/career-ops/pull/2042)) — full list below. Now leading the storage-layer track and taking triage rounds.
 - 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — local-first, plain-language insurance policy reader. Upload a policy, get clause-by-clause explanations side by side with the original text, in the document's own language (中/EN). Translation only, never advice. Docker (React + Node.js + Python), agent-callable CLI, AGPL-3.0. v0.1.0 shipped same night it was designed.
-- 📐 Open RFC — [**Shared Behavioral-Signal Layer**](https://github.com/santifer/career-ops/issues/1506): a company-attributable, candidate-anonymous schema for pooling interview-process signal across candidates (follow-up to Discussion #904; adopted into the project's shared-layer direction)
+- 📐 Open RFC — [**Shared Behavioral-Signal Layer**](https://github.com/career-ops-hq/career-ops/issues/1506): a company-attributable, candidate-anonymous schema for pooling interview-process signal across candidates (follow-up to Discussion #904; adopted into the project's shared-layer direction)
 - 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, more PRs in review
 
 <details>
 <summary>all 76 merged career-ops PRs, grouped</summary>
 
 **Jurisdiction compliance & posting-legitimacy signals (17)**
-- [#1631](https://github.com/santifer/career-ops/pull/1631) — employee-vs-contractor classification warning signal
-- [#1685](https://github.com/santifer/career-ops/pull/1685) — flag JDs where AI/transformation buzzwords don't match company infrastructure
-- [#1748](https://github.com/santifer/career-ops/pull/1748) — user-owned company blacklist respected by scan and evaluation
-- [#1856](https://github.com/santifer/career-ops/pull/1856) — interview-redflag → suggest a blacklist entry at the Reconsider tier
-- [#1936](https://github.com/santifer/career-ops/pull/1936) — Block G signal: benefits/employment terminology country mismatch
-- [#1938](https://github.com/santifer/career-ops/pull/1938) — Block G signal: third-party platform location tag mismatch
-- [#2014](https://github.com/santifer/career-ops/pull/2014) — rejection-latency signal: statutory/courtesy post-interview response-time thresholds (suggestion-only)
-- [#2020](https://github.com/santifer/career-ops/pull/2020) — Block G signal: jurisdiction-prohibited posting content
-- [#2021](https://github.com/santifer/career-ops/pull/2021) — pay-transparency disclosure signal: jurisdiction range-width cap + missing-range corroborating signal
-- [#2027](https://github.com/santifer/career-ops/pull/2027) — minimum-wage floor check: jurisdiction table + date-aware wage-floor signal
-- [#2029](https://github.com/santifer/career-ops/pull/2029) — offer-prep jurisdiction-aware restrictive-covenant notes + lawyer questions
-- [#2031](https://github.com/santifer/career-ops/pull/2031) — interview-redflag: protected-grounds question detection from a jurisdiction table
-- [#2034](https://github.com/santifer/career-ops/pull/2034) — Block G signal: immigration-status requirement overreach
-- [#2038](https://github.com/santifer/career-ops/pull/2038) — `check-table-freshness.mjs`: staleness validator for jurisdiction-keyed tables
-- [#2041](https://github.com/santifer/career-ops/pull/2041) — agency/recruiter licensing check — jurisdiction table + registry pointer
-- [#2042](https://github.com/santifer/career-ops/pull/2042) — offer-prep sub-statutory terms check: jurisdiction floors table + statutory-context notes + lawyer questions
-- [#2896](https://github.com/santifer/career-ops/pull/2896) — Block G signal 15: AI-screening disclosure (verified jurisdiction seeds w/ effective dates, e.g. NYC Local Law 144)
+- [#1631](https://github.com/career-ops-hq/career-ops/pull/1631) — employee-vs-contractor classification warning signal
+- [#1685](https://github.com/career-ops-hq/career-ops/pull/1685) — flag JDs where AI/transformation buzzwords don't match company infrastructure
+- [#1748](https://github.com/career-ops-hq/career-ops/pull/1748) — user-owned company blacklist respected by scan and evaluation
+- [#1856](https://github.com/career-ops-hq/career-ops/pull/1856) — interview-redflag → suggest a blacklist entry at the Reconsider tier
+- [#1936](https://github.com/career-ops-hq/career-ops/pull/1936) — Block G signal: benefits/employment terminology country mismatch
+- [#1938](https://github.com/career-ops-hq/career-ops/pull/1938) — Block G signal: third-party platform location tag mismatch
+- [#2014](https://github.com/career-ops-hq/career-ops/pull/2014) — rejection-latency signal: statutory/courtesy post-interview response-time thresholds (suggestion-only)
+- [#2020](https://github.com/career-ops-hq/career-ops/pull/2020) — Block G signal: jurisdiction-prohibited posting content
+- [#2021](https://github.com/career-ops-hq/career-ops/pull/2021) — pay-transparency disclosure signal: jurisdiction range-width cap + missing-range corroborating signal
+- [#2027](https://github.com/career-ops-hq/career-ops/pull/2027) — minimum-wage floor check: jurisdiction table + date-aware wage-floor signal
+- [#2029](https://github.com/career-ops-hq/career-ops/pull/2029) — offer-prep jurisdiction-aware restrictive-covenant notes + lawyer questions
+- [#2031](https://github.com/career-ops-hq/career-ops/pull/2031) — interview-redflag: protected-grounds question detection from a jurisdiction table
+- [#2034](https://github.com/career-ops-hq/career-ops/pull/2034) — Block G signal: immigration-status requirement overreach
+- [#2038](https://github.com/career-ops-hq/career-ops/pull/2038) — `check-table-freshness.mjs`: staleness validator for jurisdiction-keyed tables
+- [#2041](https://github.com/career-ops-hq/career-ops/pull/2041) — agency/recruiter licensing check — jurisdiction table + registry pointer
+- [#2042](https://github.com/career-ops-hq/career-ops/pull/2042) — offer-prep sub-statutory terms check: jurisdiction floors table + statutory-context notes + lawyer questions
+- [#2896](https://github.com/career-ops-hq/career-ops/pull/2896) — Block G signal 15: AI-screening disclosure (verified jurisdiction seeds w/ effective dates, e.g. NYC Local Law 144)
 
 **Interview prep, debrief & scheduling (14)**
-- [#1233](https://github.com/santifer/career-ops/pull/1233) — post-interview company red-flag detector from transcript signal
-- [#1497](https://github.com/santifer/career-ops/pull/1497) — fuzzy-match interview-invite emails to tracker entries
-- [#1502](https://github.com/santifer/career-ops/pull/1502) — structured Panel Intel table for named panelists in panel-mixed rounds
-- [#1858](https://github.com/santifer/career-ops/pull/1858) — wire Panel Intel table into interview/plan when later-round panelists are named
-- [#1860](https://github.com/santifer/career-ops/pull/1860) — confirmed-time no-show follow-up email scenario
-- [#1941](https://github.com/santifer/career-ops/pull/1941) — cross-reference coffee chat notes against interview transcripts
-- [#1943](https://github.com/santifer/career-ops/pull/1943) — flag scope/compensation mismatch when interview probes off-JD skills at entry-level pay
-- [#2097](https://github.com/santifer/career-ops/pull/2097) — wire interview-prep's sourced-question research into `interview/plan`
-- [#2100](https://github.com/santifer/career-ops/pull/2100) — invite-match: recognize rejection emails, not just interview invites
-- [#2676](https://github.com/santifer/career-ops/pull/2676) — invite-match: distinguish AI-interviewer platforms (Alex, HireVue) from human calls
-- [#2122](https://github.com/santifer/career-ops/pull/2122) — `interview/debrief`: support debriefing directly from an existing transcript
-- [#2124](https://github.com/santifer/career-ops/pull/2124) — wire followup-cadence's cold classification into `stats.mjs`'s `activeApps`
-- [#2127](https://github.com/santifer/career-ops/pull/2127) — `interview/debrief`: correct contradicted facts in the prep file in place
-- [#2128](https://github.com/santifer/career-ops/pull/2128) — interview-prep: detect call platform (phone/Zoom/Teams/Meet) from invite text
-- [#2130](https://github.com/santifer/career-ops/pull/2130) — weekly interview digest aggregator
+- [#1233](https://github.com/career-ops-hq/career-ops/pull/1233) — post-interview company red-flag detector from transcript signal
+- [#1497](https://github.com/career-ops-hq/career-ops/pull/1497) — fuzzy-match interview-invite emails to tracker entries
+- [#1502](https://github.com/career-ops-hq/career-ops/pull/1502) — structured Panel Intel table for named panelists in panel-mixed rounds
+- [#1858](https://github.com/career-ops-hq/career-ops/pull/1858) — wire Panel Intel table into interview/plan when later-round panelists are named
+- [#1860](https://github.com/career-ops-hq/career-ops/pull/1860) — confirmed-time no-show follow-up email scenario
+- [#1941](https://github.com/career-ops-hq/career-ops/pull/1941) — cross-reference coffee chat notes against interview transcripts
+- [#1943](https://github.com/career-ops-hq/career-ops/pull/1943) — flag scope/compensation mismatch when interview probes off-JD skills at entry-level pay
+- [#2097](https://github.com/career-ops-hq/career-ops/pull/2097) — wire interview-prep's sourced-question research into `interview/plan`
+- [#2100](https://github.com/career-ops-hq/career-ops/pull/2100) — invite-match: recognize rejection emails, not just interview invites
+- [#2676](https://github.com/career-ops-hq/career-ops/pull/2676) — invite-match: distinguish AI-interviewer platforms (Alex, HireVue) from human calls
+- [#2122](https://github.com/career-ops-hq/career-ops/pull/2122) — `interview/debrief`: support debriefing directly from an existing transcript
+- [#2124](https://github.com/career-ops-hq/career-ops/pull/2124) — wire followup-cadence's cold classification into `stats.mjs`'s `activeApps`
+- [#2127](https://github.com/career-ops-hq/career-ops/pull/2127) — `interview/debrief`: correct contradicted facts in the prep file in place
+- [#2128](https://github.com/career-ops-hq/career-ops/pull/2128) — interview-prep: detect call platform (phone/Zoom/Teams/Meet) from invite text
+- [#2130](https://github.com/career-ops-hq/career-ops/pull/2130) — weekly interview digest aggregator
 
 **Application pipeline & tracker integrity (15)**
-- [#919](https://github.com/santifer/career-ops/pull/919) — SQLite derived index over `applications.md` (RFC #918 phase 1)
-- [#961](https://github.com/santifer/career-ops/pull/961) — transcript-driven targeting correction
-- [#1467](https://github.com/santifer/career-ops/pull/1467) — recruiting-process friction signal
-- [#1525](https://github.com/santifer/career-ops/pull/1525) — merge-tracker req/job-number guard on tier-3 fuzzy dedup
-- [#1557](https://github.com/santifer/career-ops/pull/1557) — candidate contact-channel preference field for outreach/email drafts
-- [#1687](https://github.com/santifer/career-ops/pull/1687) — skills-assessment event log with candidate-observed staleness signal (`assessment-log.mjs`)
-- [#1703](https://github.com/santifer/career-ops/pull/1703) — `fix-slugs.mjs`: auto-write ATS slug corrections back to `portals.yml`
-- [#1738](https://github.com/santifer/career-ops/pull/1738) — unified Risk Summary block joining the five company-risk signals
-- [#1745](https://github.com/santifer/career-ops/pull/1745) — ATS-broken fallback email — recover a stuck application when the pipeline machinery jams
-- [#1803](https://github.com/santifer/career-ops/pull/1803) — `paste-reply.mjs`: manual/no-Gmail input path into the reply-watch classification pipeline
-- [#1817](https://github.com/santifer/career-ops/pull/1817) — interview-prep URL entry path for a role that was never evaluated
-- [#1853](https://github.com/santifer/career-ops/pull/1853) — track compensation stated per interview round (`salary-gap.mjs`)
-- [#2652](https://github.com/santifer/career-ops/pull/2652) — process-quality: documented example friction patterns for the `[process-friction]` tag
-- [#2672](https://github.com/santifer/career-ops/pull/2672) — reply-matcher: require corroboration for partial role-title matches (fixes cross-application false-positive misattribution)
-- [#2788](https://github.com/santifer/career-ops/pull/2788) — `company-history.mjs`: opt-in no-response-friction signal emission, first producer of the RFC #1506 shared-signal schema
+- [#919](https://github.com/career-ops-hq/career-ops/pull/919) — SQLite derived index over `applications.md` (RFC #918 phase 1)
+- [#961](https://github.com/career-ops-hq/career-ops/pull/961) — transcript-driven targeting correction
+- [#1467](https://github.com/career-ops-hq/career-ops/pull/1467) — recruiting-process friction signal
+- [#1525](https://github.com/career-ops-hq/career-ops/pull/1525) — merge-tracker req/job-number guard on tier-3 fuzzy dedup
+- [#1557](https://github.com/career-ops-hq/career-ops/pull/1557) — candidate contact-channel preference field for outreach/email drafts
+- [#1687](https://github.com/career-ops-hq/career-ops/pull/1687) — skills-assessment event log with candidate-observed staleness signal (`assessment-log.mjs`)
+- [#1703](https://github.com/career-ops-hq/career-ops/pull/1703) — `fix-slugs.mjs`: auto-write ATS slug corrections back to `portals.yml`
+- [#1738](https://github.com/career-ops-hq/career-ops/pull/1738) — unified Risk Summary block joining the five company-risk signals
+- [#1745](https://github.com/career-ops-hq/career-ops/pull/1745) — ATS-broken fallback email — recover a stuck application when the pipeline machinery jams
+- [#1803](https://github.com/career-ops-hq/career-ops/pull/1803) — `paste-reply.mjs`: manual/no-Gmail input path into the reply-watch classification pipeline
+- [#1817](https://github.com/career-ops-hq/career-ops/pull/1817) — interview-prep URL entry path for a role that was never evaluated
+- [#1853](https://github.com/career-ops-hq/career-ops/pull/1853) — track compensation stated per interview round (`salary-gap.mjs`)
+- [#2652](https://github.com/career-ops-hq/career-ops/pull/2652) — process-quality: documented example friction patterns for the `[process-friction]` tag
+- [#2672](https://github.com/career-ops-hq/career-ops/pull/2672) — reply-matcher: require corroboration for partial role-title matches (fixes cross-application false-positive misattribution)
+- [#2788](https://github.com/career-ops-hq/career-ops/pull/2788) — `company-history.mjs`: opt-in no-response-friction signal emission, first producer of the RFC #1506 shared-signal schema
 
 **CLI robustness & test hardening (9)**
-- [#1503](https://github.com/santifer/career-ops/pull/1503) — `toBashPath()` cygpath-before-wslpath fix (WSL/Cygwin)
-- [#1505](https://github.com/santifer/career-ops/pull/1505) — `tracker-sync-check.mjs`: applications.md ↔ active-interviews.md status sync checker
-- [#1635](https://github.com/santifer/career-ops/pull/1635) — reject unrecognized CLI flags instead of silently ignoring them
-- [#1705](https://github.com/santifer/career-ops/pull/1705) — detect and prevent duplicate tracker # numbers (data-integrity hardening)
-- [#1772](https://github.com/santifer/career-ops/pull/1772) — normalize CRLF at read time for doc assertions in `test-all.mjs`
-- [#1800](https://github.com/santifer/career-ops/pull/1800) — recognize "—" as a valid score-cell sentinel
-- [#2745](https://github.com/santifer/career-ops/pull/2745) — reply-watch: reject unrecognized CLI flags instead of treating them as a candidates path
-- [#2746](https://github.com/santifer/career-ops/pull/2746) — dedup-tracker: reject unrecognized flags instead of silently live-running
-- [#2778](https://github.com/santifer/career-ops/pull/2778) — `lib/cli-flags.mjs`: shared flag-validation helper (`validateFlags`), migrated 3 scripts + `scan.mjs`'s own `--help`-triggers-a-live-scan fix
+- [#1503](https://github.com/career-ops-hq/career-ops/pull/1503) — `toBashPath()` cygpath-before-wslpath fix (WSL/Cygwin)
+- [#1505](https://github.com/career-ops-hq/career-ops/pull/1505) — `tracker-sync-check.mjs`: applications.md ↔ active-interviews.md status sync checker
+- [#1635](https://github.com/career-ops-hq/career-ops/pull/1635) — reject unrecognized CLI flags instead of silently ignoring them
+- [#1705](https://github.com/career-ops-hq/career-ops/pull/1705) — detect and prevent duplicate tracker # numbers (data-integrity hardening)
+- [#1772](https://github.com/career-ops-hq/career-ops/pull/1772) — normalize CRLF at read time for doc assertions in `test-all.mjs`
+- [#1800](https://github.com/career-ops-hq/career-ops/pull/1800) — recognize "—" as a valid score-cell sentinel
+- [#2745](https://github.com/career-ops-hq/career-ops/pull/2745) — reply-watch: reject unrecognized CLI flags instead of treating them as a candidates path
+- [#2746](https://github.com/career-ops-hq/career-ops/pull/2746) — dedup-tracker: reject unrecognized flags instead of silently live-running
+- [#2778](https://github.com/career-ops-hq/career-ops/pull/2778) — `lib/cli-flags.mjs`: shared flag-validation helper (`validateFlags`), migrated 3 scripts + `scan.mjs`'s own `--help`-triggers-a-live-scan fix
 
 **ATS discovery & scanning (9)**
-- [#746](https://github.com/santifer/career-ops/pull/746) — reverse-ATS job discovery (`scan-ats-full.mjs`)
-- [#1248](https://github.com/santifer/career-ops/pull/1248) — ATS auto-fill for Greenhouse / Ashby / Lever (prepare, don't submit)
-- [#1405](https://github.com/santifer/career-ops/pull/1405) — ATS channel yield analysis (algorithmic-monoculture aware)
-- [#1638](https://github.com/santifer/career-ops/pull/1638) — scope `content_filter` per title-category via `by_title_keyword`
-- [#1847](https://github.com/santifer/career-ops/pull/1847) — add `scan-ats-full.mjs` to AGENTS.md Main Files table
-- [#1848](https://github.com/santifer/career-ops/pull/1848) — wire `content_filter` (incl. `by_title_keyword` scoping) into reverse ATS scans
-- [#1872](https://github.com/santifer/career-ops/pull/1872) — surface post-submission resume verification for SuccessFactors-family ATS
-- [#1921](https://github.com/santifer/career-ops/pull/1921) — warn candidate to check employer ATS profile before reapplying to a repeat company
-- [#2095](https://github.com/santifer/career-ops/pull/2095) — reverse-ATS country-eligibility filter: US-only vs. US+Canada remote postings from JD body text
+- [#746](https://github.com/career-ops-hq/career-ops/pull/746) — reverse-ATS job discovery (`scan-ats-full.mjs`)
+- [#1248](https://github.com/career-ops-hq/career-ops/pull/1248) — ATS auto-fill for Greenhouse / Ashby / Lever (prepare, don't submit)
+- [#1405](https://github.com/career-ops-hq/career-ops/pull/1405) — ATS channel yield analysis (algorithmic-monoculture aware)
+- [#1638](https://github.com/career-ops-hq/career-ops/pull/1638) — scope `content_filter` per title-category via `by_title_keyword`
+- [#1847](https://github.com/career-ops-hq/career-ops/pull/1847) — add `scan-ats-full.mjs` to AGENTS.md Main Files table
+- [#1848](https://github.com/career-ops-hq/career-ops/pull/1848) — wire `content_filter` (incl. `by_title_keyword` scoping) into reverse ATS scans
+- [#1872](https://github.com/career-ops-hq/career-ops/pull/1872) — surface post-submission resume verification for SuccessFactors-family ATS
+- [#1921](https://github.com/career-ops-hq/career-ops/pull/1921) — warn candidate to check employer ATS profile before reapplying to a repeat company
+- [#2095](https://github.com/career-ops-hq/career-ops/pull/2095) — reverse-ATS country-eligibility filter: US-only vs. US+Canada remote postings from JD body text
 
-**CV, matching & targeting (7)**
-- [#1230](https://github.com/santifer/career-ops/pull/1230) — zero-LLM STAR story matcher from `story-bank.md`
-- [#1259](https://github.com/santifer/career-ops/pull/1259) — match-star fixtures + keyword-scorer assertions
-- [#1559](https://github.com/santifer/career-ops/pull/1559) — JD skill-gap checker: classify JD-required skills before CV generation, zero-LLM
-- [#1647](https://github.com/santifer/career-ops/pull/1647) — `--allow-reorder` flag for intentional CV section reordering
-- [#1731](https://github.com/santifer/career-ops/pull/1731) — convert a screenshot into a PDF for ATS uploads (`img-to-pdf.mjs`)
-- [#2950](https://github.com/santifer/career-ops/pull/2950) — `negotiation-roi.mjs`: ROI-based salary-negotiation talking-point generator from story-bank proof points
-- [#2948](https://github.com/santifer/career-ops/pull/2948) — `story-provenance-check.mjs`: tier the Source-of-Truth boundary so `story-bank.md` can't silently inherit `cv.md`'s trust level
+**CV, matching & targeting (9)**
+- [#1230](https://github.com/career-ops-hq/career-ops/pull/1230) — zero-LLM STAR story matcher from `story-bank.md`
+- [#1259](https://github.com/career-ops-hq/career-ops/pull/1259) — match-star fixtures + keyword-scorer assertions
+- [#1559](https://github.com/career-ops-hq/career-ops/pull/1559) — JD skill-gap checker: classify JD-required skills before CV generation, zero-LLM
+- [#1647](https://github.com/career-ops-hq/career-ops/pull/1647) — `--allow-reorder` flag for intentional CV section reordering
+- [#1731](https://github.com/career-ops-hq/career-ops/pull/1731) — convert a screenshot into a PDF for ATS uploads (`img-to-pdf.mjs`)
+- [#2950](https://github.com/career-ops-hq/career-ops/pull/2950) — `negotiation-roi.mjs`: ROI-based salary-negotiation talking-point generator from story-bank proof points
+- [#2948](https://github.com/career-ops-hq/career-ops/pull/2948) — `story-provenance-check.mjs`: tier the Source-of-Truth boundary so `story-bank.md` can't silently inherit `cv.md`'s trust level
+- [#3554](https://github.com/career-ops-hq/career-ops/pull/3554) — CJK support for the LaTeX/Overleaf CV path via tectonic
+- [#3642](https://github.com/career-ops-hq/career-ops/pull/3642) — fix `validateCvSectionOrder` to accept the canonical `modes/pdf.md` tailoring order
 
 **Plugins & core architecture (4)**
-- [#1347](https://github.com/santifer/career-ops/pull/1347) — google-calendar plugin v0.1.0
-- [#1348](https://github.com/santifer/career-ops/pull/1348) — tavily plugin v0.1.0
-- [#1399](https://github.com/santifer/career-ops/pull/1399) — obsidian plugin v0.1.0
-- [#1402](https://github.com/santifer/career-ops/pull/1402) — per-plugin registry files: conflict-free community registry PRs
+- [#1347](https://github.com/career-ops-hq/career-ops/pull/1347) — google-calendar plugin v0.1.0
+- [#1348](https://github.com/career-ops-hq/career-ops/pull/1348) — tavily plugin v0.1.0
+- [#1399](https://github.com/career-ops-hq/career-ops/pull/1399) — obsidian plugin v0.1.0
+- [#1402](https://github.com/career-ops-hq/career-ops/pull/1402) — per-plugin registry files: conflict-free community registry PRs
 
 </details>
 
@@ -216,11 +218,11 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — 从git历史和笔记内容重建认知自我模型。xAPI是机构规模的版本，这是个人规模的。浮现你自己都没意识到的模式。
 
 **开源贡献：**
-- [career-ops](https://github.com/santifer/career-ops)（60K+ ★）— **具名 Core Contributor，全库三人之一，从第一次使用到被册封不到三个月**
-- [career-ops](https://github.com/santifer/career-ops) 插件生态 — **registry 里最早的社区插件全部出自我手**：日历、Gmail、Outlook、Tavily、Obsidian 五件套，全部 zero-key、local-first。maintainer 原话："You're helping seed the ecosystem."
-- [career-ops](https://github.com/santifer/career-ops) core — **76个PR已合并**，包括SQLite存储层架构RFC（#918→#919）、无冲突per-plugin registry架构（#1402）、jurisdiction-compliance-lens系列十个已合并成员（#2014/#2020/#2021/#2027/#2029/#2031/#2034/#2038/#2041/#2042），完整列表见上方英文区的可展开清单；现在负责storage-layer方向并参与issue triage
+- [career-ops](https://github.com/career-ops-hq/career-ops)（60K+ ★）— **具名 Core Contributor，全库三人之一，从第一次使用到被册封不到三个月**
+- [career-ops](https://github.com/career-ops-hq/career-ops) 插件生态 — **registry 里最早的社区插件全部出自我手**：日历、Gmail、Outlook、Tavily、Obsidian 五件套，全部 zero-key、local-first。maintainer 原话："You're helping seed the ecosystem."
+- [career-ops](https://github.com/career-ops-hq/career-ops) core — **76个PR已合并**，包括SQLite存储层架构RFC（#918→#919）、无冲突per-plugin registry架构（#1402）、jurisdiction-compliance-lens系列十个已合并成员（#2014/#2020/#2021/#2027/#2029/#2031/#2034/#2038/#2041/#2042），完整列表见上方英文区的可展开清单；现在负责storage-layer方向并参与issue triage
 - 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — 本地优先的保险条款人话翻译器。上传保单，逐条对照原文和人话解释，用文档本身的语言输出（中/英）。只做翻译，不给购买建议。Docker部署（React + Node.js + Python），agent可直接调用的CLI，AGPL-3.0。从设计到v0.1.0上线，同一个晚上。
-- 📐 进行中的 RFC — [**Shared Behavioral-Signal Layer**](https://github.com/santifer/career-ops/issues/1506)：一套「公司可归因、候选人匿名」的 schema，把跨候选人的面试流程信号汇聚起来（承接 Discussion #904，已被采纳进项目的 shared-layer 方向）
+- 📐 进行中的 RFC — [**Shared Behavioral-Signal Layer**](https://github.com/career-ops-hq/career-ops/issues/1506)：一套「公司可归因、候选人匿名」的 schema，把跨候选人的面试流程信号汇聚起来（承接 Discussion #904，已被采纳进项目的 shared-layer 方向）
 - [Hive](https://github.com/aden-hive/hive)（YC-backed）— SDR Agent已合并进v0.7.3，另有PR在review
 
 **我怎么造工具：**
