@@ -41,35 +41,42 @@
 **Icy (冰糖)** — odd-eyed white cat, 3 years old · **Xueli (雪梨)** — calico, 1.5 years old
 
 <details>
-<summary>click to expand — 26 counts of chief distraction officers</summary>
+<summary>click to expand — 33 counts of chief distraction officers</summary>
 
 <!-- CAT-GALLERY:START -->
-<img src="./assets/cats/cat-01.jpg" width="150" alt="cat 1" />
-<img src="./assets/cats/cat-02.jpg" width="150" alt="cat 2" />
-<img src="./assets/cats/cat-03.jpg" width="150" alt="cat 3" />
-<img src="./assets/cats/cat-04.jpg" width="150" alt="cat 4" />
-<img src="./assets/cats/cat-05.jpg" width="150" alt="cat 5" />
-<img src="./assets/cats/cat-06.jpg" width="150" alt="cat 6" />
-<img src="./assets/cats/cat-07.jpg" width="150" alt="cat 7" />
-<img src="./assets/cats/cat-08.jpg" width="150" alt="cat 8" />
-<img src="./assets/cats/cat-09.jpg" width="150" alt="cat 9" />
-<img src="./assets/cats/cat-10.jpg" width="150" alt="cat 10" />
-<img src="./assets/cats/cat-11.jpg" width="150" alt="cat 11" />
-<img src="./assets/cats/cat-12.jpg" width="150" alt="cat 12" />
-<img src="./assets/cats/cat-13.jpg" width="150" alt="cat 13" />
-<img src="./assets/cats/cat-14.jpg" width="150" alt="cat 14" />
-<img src="./assets/cats/cat-15.jpg" width="150" alt="cat 15" />
-<img src="./assets/cats/cat-16.jpg" width="150" alt="cat 16" />
-<img src="./assets/cats/cat-17.jpg" width="150" alt="cat 17" />
-<img src="./assets/cats/cat-18.jpg" width="150" alt="cat 18" />
-<img src="./assets/cats/cat-19.jpg" width="150" alt="cat 19" />
-<img src="./assets/cats/cat-20.jpg" width="150" alt="cat 20" />
-<img src="./assets/cats/cat-21.jpg" width="150" alt="cat 21" />
-<img src="./assets/cats/cat-22.jpg" width="150" alt="cat 22" />
-<img src="./assets/cats/cat-23.jpg" width="150" alt="cat 23" />
-<img src="./assets/cats/cat-24.jpg" width="150" alt="cat 24" />
-<img src="./assets/cats/cat-25.jpg" width="150" alt="cat 25" />
-<img src="./assets/cats/cat-26.jpg" width="150" alt="cat 26" />
+<img src="./assets/cats/0bab3e387882bf72687b3a2c3102e509.jpg" width="150" alt="cat 1" />
+<img src="./assets/cats/1771ecb5669ed8dc969e17dc210f394e.jpg" width="150" alt="cat 2" />
+<img src="./assets/cats/406bd803d628625d83f2867d59ed9450.jpg" width="150" alt="cat 3" />
+<img src="./assets/cats/4357c2a015e336be602f546ef313086a.jpg" width="150" alt="cat 4" />
+<img src="./assets/cats/77443aecbb9d0ee9f6ca426e6dc90bb4.jpg" width="150" alt="cat 5" />
+<img src="./assets/cats/b24b7ef7559c03eb2930c70288e7c892.jpg" width="150" alt="cat 6" />
+<img src="./assets/cats/cat-01.jpg" width="150" alt="cat 7" />
+<img src="./assets/cats/cat-02.jpg" width="150" alt="cat 8" />
+<img src="./assets/cats/cat-03.jpg" width="150" alt="cat 9" />
+<img src="./assets/cats/cat-04.jpg" width="150" alt="cat 10" />
+<img src="./assets/cats/cat-05.jpg" width="150" alt="cat 11" />
+<img src="./assets/cats/cat-06.jpg" width="150" alt="cat 12" />
+<img src="./assets/cats/cat-07.jpg" width="150" alt="cat 13" />
+<img src="./assets/cats/cat-08.jpg" width="150" alt="cat 14" />
+<img src="./assets/cats/cat-09.jpg" width="150" alt="cat 15" />
+<img src="./assets/cats/cat-10.jpg" width="150" alt="cat 16" />
+<img src="./assets/cats/cat-11.jpg" width="150" alt="cat 17" />
+<img src="./assets/cats/cat-12.jpg" width="150" alt="cat 18" />
+<img src="./assets/cats/cat-13.jpg" width="150" alt="cat 19" />
+<img src="./assets/cats/cat-14.jpg" width="150" alt="cat 20" />
+<img src="./assets/cats/cat-15.jpg" width="150" alt="cat 21" />
+<img src="./assets/cats/cat-16.jpg" width="150" alt="cat 22" />
+<img src="./assets/cats/cat-17.jpg" width="150" alt="cat 23" />
+<img src="./assets/cats/cat-18.jpg" width="150" alt="cat 24" />
+<img src="./assets/cats/cat-19.jpg" width="150" alt="cat 25" />
+<img src="./assets/cats/cat-20.jpg" width="150" alt="cat 26" />
+<img src="./assets/cats/cat-21.jpg" width="150" alt="cat 27" />
+<img src="./assets/cats/cat-22.jpg" width="150" alt="cat 28" />
+<img src="./assets/cats/cat-23.jpg" width="150" alt="cat 29" />
+<img src="./assets/cats/cat-24.jpg" width="150" alt="cat 30" />
+<img src="./assets/cats/cat-25.jpg" width="150" alt="cat 31" />
+<img src="./assets/cats/cat-26.jpg" width="150" alt="cat 32" />
+<img src="./assets/cats/d15041eec93961ee6342b2c39840b700.jpg" width="150" alt="cat 33" />
 <!-- CAT-GALLERY:END -->
 
 </details>
@@ -88,13 +95,13 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — cognitive self-modeling from git history + note embeddings. Same methodology as xAPI, personal scale. Surfaces patterns you weren't aware of.
 - 🔌 **The first community plugins in the [career-ops](https://github.com/career-ops-hq/career-ops) registry** — a five-plugin suite, all zero-key and local-first: [google-calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar) (interviews from your calendar), [linkedin-alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts) (job URLs from Gmail alerts), [outlook-interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews) (invite detection via MS Graph), [tavily](https://github.com/Schlaflied/career-ops-plugin-tavily) (search/liveness), [obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian) (tracker → Dataview frontmatter notes, zero network). *"You're helping seed the ecosystem"* — the maintainer.
-- ⚔️ **Core Contributor** @ [career-ops](https://github.com/career-ops-hq/career-ops) (60K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. Member of the org's `maintainers` GitHub team. **78 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/career-ops-hq/career-ops/issues/918) → [#919](https://github.com/career-ops-hq/career-ops/pull/919)), the conflict-free per-plugin registry architecture ([#1402](https://github.com/career-ops-hq/career-ops/pull/1402)), and ten shipped members of the jurisdiction-compliance-lens series ([#2014](https://github.com/career-ops-hq/career-ops/pull/2014)/[#2020](https://github.com/career-ops-hq/career-ops/pull/2020)/[#2021](https://github.com/career-ops-hq/career-ops/pull/2021)/[#2027](https://github.com/career-ops-hq/career-ops/pull/2027)/[#2029](https://github.com/career-ops-hq/career-ops/pull/2029)/[#2031](https://github.com/career-ops-hq/career-ops/pull/2031)/[#2034](https://github.com/career-ops-hq/career-ops/pull/2034)/[#2038](https://github.com/career-ops-hq/career-ops/pull/2038)/[#2041](https://github.com/career-ops-hq/career-ops/pull/2041)/[#2042](https://github.com/career-ops-hq/career-ops/pull/2042)) — full list below. Now leading the storage-layer track and taking triage rounds.
+- ⚔️ **Core Contributor** @ [career-ops](https://github.com/career-ops-hq/career-ops) (60K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. Member of the org's `maintainers` GitHub team. **78 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/career-ops-hq/career-ops/issues/918) → [#919](https://github.com/career-ops-hq/career-ops/pull/919)), the conflict-free per-plugin registry architecture ([#1402](https://github.com/career-ops-hq/career-ops/pull/1402)), and ten shipped members of the jurisdiction-compliance-lens series ([#2014](https://github.com/career-ops-hq/career-ops/pull/2014)/[#2020](https://github.com/career-ops-hq/career-ops/pull/2020)/[#2021](https://github.com/career-ops-hq/career-ops/pull/2021)/[#2027](https://github.com/career-ops-hq/career-ops/pull/2027)/[#2029](https://github.com/career-ops-hq/career-ops/pull/2029)/[#2031](https://github.com/career-ops-hq/career-ops/pull/2031)/[#2034](https://github.com/career-ops-hq/career-ops/pull/2034)/[#2038](https://github.com/career-ops-hq/career-ops/pull/2038)/[#2041](https://github.com/career-ops-hq/career-ops/pull/2041)/[#2042](https://github.com/career-ops-hq/career-ops/pull/2042)) — full list below. Now leading the storage-layer track. Also an official **member of the org's `triagers` team** — tags, triages, and helps maintain the community issue queue.
 - 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — local-first, plain-language insurance policy reader. Upload a policy, get clause-by-clause explanations side by side with the original text, in the document's own language (中/EN). Translation only, never advice. Docker (React + Node.js + Python), agent-callable CLI, AGPL-3.0. v0.1.0 shipped same night it was designed.
 - 📐 Open RFC — [**Shared Behavioral-Signal Layer**](https://github.com/career-ops-hq/career-ops/issues/1506): a company-attributable, candidate-anonymous schema for pooling interview-process signal across candidates (follow-up to Discussion #904; adopted into the project's shared-layer direction)
 - 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, more PRs in review
 
 <details>
-<summary>all 76 merged career-ops PRs, grouped</summary>
+<summary>all 78 merged career-ops PRs, grouped</summary>
 
 **Jurisdiction compliance & posting-legitimacy signals (17)**
 - [#1631](https://github.com/career-ops-hq/career-ops/pull/1631) — employee-vs-contractor classification warning signal
@@ -220,7 +227,7 @@ xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
 **开源贡献：**
 - [career-ops](https://github.com/career-ops-hq/career-ops)（60K+ ★）— **具名 Core Contributor，全库三人之一，从第一次使用到被册封不到三个月**
 - [career-ops](https://github.com/career-ops-hq/career-ops) 插件生态 — **registry 里最早的社区插件全部出自我手**：日历、Gmail、Outlook、Tavily、Obsidian 五件套，全部 zero-key、local-first。maintainer 原话："You're helping seed the ecosystem."
-- [career-ops](https://github.com/career-ops-hq/career-ops) core — **76个PR已合并**，包括SQLite存储层架构RFC（#918→#919）、无冲突per-plugin registry架构（#1402）、jurisdiction-compliance-lens系列十个已合并成员（#2014/#2020/#2021/#2027/#2029/#2031/#2034/#2038/#2041/#2042），完整列表见上方英文区的可展开清单；现在负责storage-layer方向并参与issue triage
+- [career-ops](https://github.com/career-ops-hq/career-ops) core — **78个PR已合并**，包括SQLite存储层架构RFC（#918→#919）、无冲突per-plugin registry架构（#1402）、jurisdiction-compliance-lens系列十个已合并成员（#2014/#2020/#2021/#2027/#2029/#2031/#2034/#2038/#2041/#2042），完整列表见上方英文区的可展开清单；现在负责storage-layer方向，同时是组织`triagers`团队的正式成员，负责社区issue打标签和日常维护
 - 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — 本地优先的保险条款人话翻译器。上传保单，逐条对照原文和人话解释，用文档本身的语言输出（中/英）。只做翻译，不给购买建议。Docker部署（React + Node.js + Python），agent可直接调用的CLI，AGPL-3.0。从设计到v0.1.0上线，同一个晚上。
 - 📐 进行中的 RFC — [**Shared Behavioral-Signal Layer**](https://github.com/career-ops-hq/career-ops/issues/1506)：一套「公司可归因、候选人匿名」的 schema，把跨候选人的面试流程信号汇聚起来（承接 Discussion #904，已被采纳进项目的 shared-layer 方向）
 - [Hive](https://github.com/aden-hive/hive)（YC-backed）— SDR Agent已合并进v0.7.3，另有PR在review
