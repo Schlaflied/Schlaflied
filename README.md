@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C7686,100:689AAF&height=200&section=header&text=Schlaflied&fontColor=F4FAFB&fontSize=70&desc=I%20architect%20systems.%20AI%20ships%20them.&descSize=18&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C7686,100:689AAF&height=200&section=header&text=Schlaflied&fontColor=F4FAFB&fontSize=70&desc=Learning%20systems%2C%20agent%20workflows%2C%20and%20open%20source&descSize=18&descAlignY=68" width="100%" />
 
 <a href="https://github.com/Schlaflied">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=689AAF&center=true&vCenter=true&width=620&lines=Instructional+designer%2C+not+a+coder;I+build+pipelines%2C+not+slide+decks;SCORM+measures+completion%2C+not+learning;Core+Contributor+%40+a+59K%E2%98%85+repo;First+use+to+core+in+10+weeks;I+architect+systems+%E2%80%94+AI+ships+them" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=689AAF&center=true&vCenter=true&width=720&lines=Instructional+designer+building+learning+systems;Learning+analytics+and+agent+workflows;Open-source+work+with+public+receipts;Built+with+AI%2C+tested+in+the+open" alt="typing" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 
 <br/>
 
-[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-78-4C7686?style=flat-square)](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
+[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-87-4C7686?style=flat-square)](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
 [![career-ops stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&label=career-ops%20%E2%98%85&color=689AAF)](https://github.com/career-ops-hq/career-ops)
 [![Hive PR merged](https://img.shields.io/badge/Hive%20SDR%20Agent-merged%20v0.7.3-4C7686?style=flat-square)](https://github.com/aden-hive/hive)
 
@@ -28,7 +28,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schlaflied&hide_border=true&theme=transparent&ring=689AAF&fire=4C7686&currStreakLabel=689AAF" width="48%" />
 
-*873 contributions since Nov 2024 — mostly commits and PRs to [career-ops](https://github.com/career-ops-hq/career-ops), [Plot-Ark](https://github.com/Schlaflied/Plot-Ark), and [Hive](https://github.com/aden-hive/hive) (see below for what each one is)*
+*Building in public across [career-ops](https://github.com/career-ops-hq/career-ops), [Plot-Ark](https://github.com/Schlaflied/Plot-Ark), and [Hive](https://github.com/aden-hive/hive).*
 
 </div>
 
@@ -41,7 +41,7 @@
 **Icy (冰糖)** — odd-eyed white cat, 3 years old · **Xueli (雪梨)** — calico, 1.5 years old
 
 <details>
-<summary>click to expand — 33 counts of chief distraction officers</summary>
+<summary>click to expand — 33 appearances by the chief distraction officers</summary>
 
 <!-- CAT-GALLERY:START -->
 <img src="./assets/cats/0bab3e387882bf72687b3a2c3102e509.jpg" width="150" alt="cat 1" />
@@ -87,21 +87,21 @@
 
 ## Hi, I'm Schlaflied
 
-Instructional designer. I build AI pipelines instead of slide decks.
+I'm an instructional designer who builds learning systems, automation, and the infrastructure around them. My background is in education and HR; most of my current work sits where learning analytics, agent workflows, and open source meet.
 
-I think SCORM-era tooling measures completion, not learning — so I build my own instruments for tracking how people actually learn.
+SCORM can tell you whether someone finished a module. I'm more interested in what happened along the way, so I keep building tools around xAPI, behavioral traces, and feedback loops.
 
 **Currently shipping:**
-- 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional designers
-- 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — cognitive self-modeling from git history + note embeddings. Same methodology as xAPI, personal scale. Surfaces patterns you weren't aware of.
-- 🔌 **The first community plugins in the [career-ops](https://github.com/career-ops-hq/career-ops) registry** — a five-plugin suite, all zero-key and local-first: [google-calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar) (interviews from your calendar), [linkedin-alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts) (job URLs from Gmail alerts), [outlook-interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews) (invite detection via MS Graph), [tavily](https://github.com/Schlaflied/career-ops-plugin-tavily) (search/liveness), [obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian) (tracker → Dataview frontmatter notes, zero network). *"You're helping seed the ecosystem"* — the maintainer.
-- ⚔️ **Core Contributor** @ [career-ops](https://github.com/career-ops-hq/career-ops) (60K+ ★) — one of three named Core Contributors, first use → core in **under 3 months**. Member of the org's `maintainers` GitHub team. **78 merged PRs**, including the SQLite storage-layer RFC ([#918](https://github.com/career-ops-hq/career-ops/issues/918) → [#919](https://github.com/career-ops-hq/career-ops/pull/919)), the conflict-free per-plugin registry architecture ([#1402](https://github.com/career-ops-hq/career-ops/pull/1402)), and ten shipped members of the jurisdiction-compliance-lens series ([#2014](https://github.com/career-ops-hq/career-ops/pull/2014)/[#2020](https://github.com/career-ops-hq/career-ops/pull/2020)/[#2021](https://github.com/career-ops-hq/career-ops/pull/2021)/[#2027](https://github.com/career-ops-hq/career-ops/pull/2027)/[#2029](https://github.com/career-ops-hq/career-ops/pull/2029)/[#2031](https://github.com/career-ops-hq/career-ops/pull/2031)/[#2034](https://github.com/career-ops-hq/career-ops/pull/2034)/[#2038](https://github.com/career-ops-hq/career-ops/pull/2038)/[#2041](https://github.com/career-ops-hq/career-ops/pull/2041)/[#2042](https://github.com/career-ops-hq/career-ops/pull/2042)) — full list below. Now leading the storage-layer track. Also an official **member of the org's `triagers` team** — tags, triages, and helps maintain the community issue queue.
-- 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — local-first, plain-language insurance policy reader. Upload a policy, get clause-by-clause explanations side by side with the original text, in the document's own language (中/EN). Translation only, never advice. Docker (React + Node.js + Python), agent-callable CLI, AGPL-3.0. v0.1.0 shipped same night it was designed.
-- 📐 Open RFC — [**Shared Behavioral-Signal Layer**](https://github.com/career-ops-hq/career-ops/issues/1506): a company-attributable, candidate-anonymous schema for pooling interview-process signal across candidates (follow-up to Discussion #904; adopted into the project's shared-layer direction)
-- 🤝 Contributor @ [Hive](https://github.com/aden-hive/hive) (YC-backed) — SDR Agent merged in v0.7.3, more PRs in review
+- 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — an xAPI learning-analytics platform with at-risk detection, an A2A agent pipeline, and automated reports for instructional designers.
+- 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — an experiment in mapping patterns from git history and notes: behavioral traces at a personal scale.
+- 🔌 Five local-first [career-ops plugins](https://github.com/career-ops-hq/career-ops): [Google Calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar), [LinkedIn alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts), [Outlook interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews), [Tavily](https://github.com/Schlaflied/career-ops-plugin-tavily), and [Obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian).
+- ⚔️ **Core Contributor** at [career-ops](https://github.com/career-ops-hq/career-ops) (70K+ ★), and a member of its `maintainers` and `triagers` teams. I have **87 merged PRs** across ATS providers, data integrity, interview workflows, and jurisdiction-aware checks. Highlights include the SQLite index ([#918](https://github.com/career-ops-hq/career-ops/issues/918) → [#919](https://github.com/career-ops-hq/career-ops/pull/919)), the per-plugin registry design ([#1402](https://github.com/career-ops-hq/career-ops/pull/1402)), and recent Gem and Collage providers ([#3785](https://github.com/career-ops-hq/career-ops/pull/3785), [#3787](https://github.com/career-ops-hq/career-ops/pull/3787)).
+- 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — a local-first insurance policy reader that places plain-language explanations beside the original clauses. Chinese and English, translation only, never advice.
+- 📐 [Shared Behavioral-Signal Layer](https://github.com/career-ops-hq/career-ops/issues/1506) — an open RFC for pooling company-attributable, candidate-anonymous interview-process signals.
+- 🤝 Contributor to [Hive](https://github.com/aden-hive/hive) — the [SDR Agent template](https://github.com/aden-hive/hive/pull/5178) was merged in v0.7.3; follow-up agent templates are in review.
 
 <details>
-<summary>all 78 merged career-ops PRs, grouped</summary>
+<summary>all 87 merged career-ops PRs, grouped</summary>
 
 **Jurisdiction compliance & posting-legitimacy signals (17)**
 - [#1631](https://github.com/career-ops-hq/career-ops/pull/1631) — employee-vs-contractor classification warning signal
@@ -122,7 +122,7 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - [#2042](https://github.com/career-ops-hq/career-ops/pull/2042) — offer-prep sub-statutory terms check: jurisdiction floors table + statutory-context notes + lawyer questions
 - [#2896](https://github.com/career-ops-hq/career-ops/pull/2896) — Block G signal 15: AI-screening disclosure (verified jurisdiction seeds w/ effective dates, e.g. NYC Local Law 144)
 
-**Interview prep, debrief & scheduling (14)**
+**Interview prep, debrief & scheduling (15)**
 - [#1233](https://github.com/career-ops-hq/career-ops/pull/1233) — post-interview company red-flag detector from transcript signal
 - [#1497](https://github.com/career-ops-hq/career-ops/pull/1497) — fuzzy-match interview-invite emails to tracker entries
 - [#1502](https://github.com/career-ops-hq/career-ops/pull/1502) — structured Panel Intel table for named panelists in panel-mixed rounds
@@ -195,18 +195,28 @@ I think SCORM-era tooling measures completion, not learning — so I build my ow
 - [#1399](https://github.com/career-ops-hq/career-ops/pull/1399) — obsidian plugin v0.1.0
 - [#1402](https://github.com/career-ops-hq/career-ops/pull/1402) — per-plugin registry files: conflict-free community registry PRs
 
+**Recent providers & reliability work (9)**
+- [#2791](https://github.com/career-ops-hq/career-ops/pull/2791) — require every evaluation report to retain an archived JD
+- [#3643](https://github.com/career-ops-hq/career-ops/pull/3643) — stop treating ordinary prose as a tool claim
+- [#3699](https://github.com/career-ops-hq/career-ops/pull/3699) — make the CV template's second hard-coded color themeable
+- [#3710](https://github.com/career-ops-hq/career-ops/pull/3710) — per-company title-filter overrides for reverse ATS scans
+- [#3785](https://github.com/career-ops-hq/career-ops/pull/3785) — Gem public REST job-board provider
+- [#3787](https://github.com/career-ops-hq/career-ops/pull/3787) — Collage HR public job provider
+- [#3837](https://github.com/career-ops-hq/career-ops/pull/3837) — reject login walls, error pages, paywalls, and JS shells as archived JDs
+- [#3851](https://github.com/career-ops-hq/career-ops/pull/3851) — prioritize configured locations during Workday facet recovery
+- [#3909](https://github.com/career-ops-hq/career-ops/pull/3909) — require a real word before treating text as a title claim
+
 </details>
 
 **How I build:**
-I don't write code from scratch. I architect systems, define agent behavior, and use AI to ship.
-The result is the same. The process is more honest.
+I use AI throughout development, but the problem framing, system design, constraints, review, and accountability stay with me. I care less about who typed each line than whether the result is understandable, testable, and honest about its limits.
 
 **Also on GitHub:**
-- [`job-autopilot`](https://github.com/Schlaflied/job-autopilot) — cold-email pipeline with a 47% reply rate, no Premium required
+- [`job-autopilot`](https://github.com/Schlaflied/job-autopilot) — a direct-outreach workflow for job searches
 - [`hr-skill`](https://github.com/Schlaflied/hr-skill) — because HR deserves better questions
-- [`roast-cold-email-skill`](https://github.com/Schlaflied/roast-cold-email-skill) — cold email with receipts, not compliments
+- [`roast-cold-email-skill`](https://github.com/Schlaflied/roast-cold-email-skill) — cold-email feedback with receipts, not empty compliments
 
-If you're hiring around the GTA Canada (agentic AI, workflow automation, learning systems): the repos above explain what I do better than any PDF resume could. Start there.
+If you're working on agentic AI, workflow automation, or learning systems—or hiring for that kind of work—the repositories above are the best place to start.
 
 MPEd @ Western · EdTech · Discord: **schlaflied_**
 
@@ -214,27 +224,23 @@ MPEd @ Western · EdTech · Discord: **schlaflied_**
 
 ## 你好，我是Schlaflied
 
-教学设计师，但我不做PPT，我造工具。
+教学设计出身，现在主要做学习系统、AI工作流和开源项目。我的背景横跨教育和HR，最近的工作基本都落在学习分析、agent workflow和开源协作的交叉点上。
 
-**现在在做的事：**
-用A2A多智能体pipeline重建"学习分析"这件事该怎么做。
-xAPI追踪学习行为，多个agent交叉验证，自动生成报告。
-不是concept，是跑通的东西。
-详情请见：
-- 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — xAPI behavioral analytics + A2A multi-agent pipeline for instructional design
-- 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — 从git历史和笔记内容重建认知自我模型。xAPI是机构规模的版本，这是个人规模的。浮现你自己都没意识到的模式。
+SCORM能告诉你一个人有没有完成课程；我更想知道学习过程中到底发生了什么。所以我一直在折腾xAPI、行为数据和反馈回路。
+
+**现在在做：**
+- 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — 用xAPI记录学习行为，结合A2A agent做风险识别和报告生成，给教学设计师用。
+- 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — 从git历史和笔记里整理行为痕迹，试着画出一个人实际如何思考和工作的地图。
 
 **开源贡献：**
-- [career-ops](https://github.com/career-ops-hq/career-ops)（60K+ ★）— **具名 Core Contributor，全库三人之一，从第一次使用到被册封不到三个月**
-- [career-ops](https://github.com/career-ops-hq/career-ops) 插件生态 — **registry 里最早的社区插件全部出自我手**：日历、Gmail、Outlook、Tavily、Obsidian 五件套，全部 zero-key、local-first。maintainer 原话："You're helping seed the ecosystem."
-- [career-ops](https://github.com/career-ops-hq/career-ops) core — **78个PR已合并**，包括SQLite存储层架构RFC（#918→#919）、无冲突per-plugin registry架构（#1402）、jurisdiction-compliance-lens系列十个已合并成员（#2014/#2020/#2021/#2027/#2029/#2031/#2034/#2038/#2041/#2042），完整列表见上方英文区的可展开清单；现在负责storage-layer方向，同时是组织`triagers`团队的正式成员，负责社区issue打标签和日常维护
-- 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — 本地优先的保险条款人话翻译器。上传保单，逐条对照原文和人话解释，用文档本身的语言输出（中/英）。只做翻译，不给购买建议。Docker部署（React + Node.js + Python），agent可直接调用的CLI，AGPL-3.0。从设计到v0.1.0上线，同一个晚上。
-- 📐 进行中的 RFC — [**Shared Behavioral-Signal Layer**](https://github.com/career-ops-hq/career-ops/issues/1506)：一套「公司可归因、候选人匿名」的 schema，把跨候选人的面试流程信号汇聚起来（承接 Discussion #904，已被采纳进项目的 shared-layer 方向）
-- [Hive](https://github.com/aden-hive/hive)（YC-backed）— SDR Agent已合并进v0.7.3，另有PR在review
+- [career-ops](https://github.com/career-ops-hq/career-ops)（70K+ ★）— Core Contributor，也是`maintainers`和`triagers`团队成员。目前有**87个已合并PR**，主要做ATS/provider、数据完整性、面试流程和地区规则检查。代表工作包括SQLite索引（[#918](https://github.com/career-ops-hq/career-ops/issues/918) → [#919](https://github.com/career-ops-hq/career-ops/pull/919)）、per-plugin registry设计（[#1402](https://github.com/career-ops-hq/career-ops/pull/1402)），以及最近的Gem和Collage provider（[#3785](https://github.com/career-ops-hq/career-ops/pull/3785)、[#3787](https://github.com/career-ops-hq/career-ops/pull/3787)）。
+- [career-ops插件](https://github.com/career-ops-hq/career-ops) — 做了五个local-first插件：[Google Calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar)、[LinkedIn alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts)、[Outlook interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews)、[Tavily](https://github.com/Schlaflied/career-ops-plugin-tavily)和[Obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian)。
+- 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — 本地优先的保险保单阅读器，把原始条款和人话解释放在一起。支持中英文，只做解释，不给建议。
+- 📐 [Shared Behavioral-Signal Layer](https://github.com/career-ops-hq/career-ops/issues/1506) — 一个仍在讨论中的RFC，目标是汇总「公司可归因、候选人匿名」的面试流程信号。
+- [Hive](https://github.com/aden-hive/hive) — [SDR Agent模板](https://github.com/aden-hive/hive/pull/5178)已合并进v0.7.3，后续agent模板还在review。
 
-**我怎么造工具：**
-不从零写代码。设计系统架构，定义agent的边界和行为，然后让AI帮我造出来。
-结果一样。我只是对这个过程更诚实。
+**我怎么做项目：**
+我会先把问题边界、系统结构和agent行为写清楚，再借助AI实现；最后靠测试、review和公开PR把结果校验出来。不是假装每一行都由我手敲，也不是把判断全部交给模型。
 
 **最新学术糟粕：**
 - [当Claude成为我的老师：AI作为后现代青年精神权威的田野报告](https://shitspace.xyz/article/bea4cbe3-3ddb-457e-9af9-3b6ca4e41944)
