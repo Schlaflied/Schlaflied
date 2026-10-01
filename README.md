@@ -20,7 +20,7 @@
 
 <br/>
 
-[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-87-4C7686?style=flat-square)](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
+[![career-ops PRs merged](https://img.shields.io/badge/career--ops%20PRs%20merged-108-4C7686?style=flat-square)](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3ASchlaflied+is%3Amerged)
 [![career-ops stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&label=career-ops%20%E2%98%85&color=689AAF)](https://github.com/career-ops-hq/career-ops)
 [![Hive PR merged](https://img.shields.io/badge/Hive%20SDR%20Agent-merged%20v0.7.3-4C7686?style=flat-square)](https://github.com/aden-hive/hive)
 
@@ -93,16 +93,17 @@ SCORM can tell you whether someone finished a module. I'm more interested in wha
 
 **Currently shipping:**
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — an xAPI learning-analytics platform with at-risk detection, an A2A agent pipeline, and automated reports for instructional designers.
+- 📊 [excel-ops](https://github.com/Schlaflied/excel-ops) — an agent workflow for extracting, cleaning, matching, verifying, and delivering local or cloud spreadsheets, built from a real recurring multi-source reconciliation workflow.
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — an experiment in mapping patterns from git history and notes: behavioral traces at a personal scale.
 - 🔌 Five local-first [career-ops plugins](https://github.com/career-ops-hq/career-ops): [Google Calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar), [LinkedIn alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts), [Outlook interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews), [Tavily](https://github.com/Schlaflied/career-ops-plugin-tavily), and [Obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian).
-- ⚔️ **Core Contributor** at [career-ops](https://github.com/career-ops-hq/career-ops) (70K+ ★), and a member of its `maintainers` and `triagers` teams. I have **87 merged PRs** across ATS providers, data integrity, interview workflows, and jurisdiction-aware checks. Highlights include the SQLite index ([#918](https://github.com/career-ops-hq/career-ops/issues/918) → [#919](https://github.com/career-ops-hq/career-ops/pull/919)), the per-plugin registry design ([#1402](https://github.com/career-ops-hq/career-ops/pull/1402)), and recent Gem and Collage providers ([#3785](https://github.com/career-ops-hq/career-ops/pull/3785), [#3787](https://github.com/career-ops-hq/career-ops/pull/3787)).
+- ⚔️ **Core Contributor** at [career-ops](https://github.com/career-ops-hq/career-ops) (73K+ ★), and a member of its `maintainers` and `triagers` teams — #5 on the repo's all-time contributor leaderboard, behind only the project's creator, the Claude bot account, and the ledger bot. I have **108 merged PRs** across ATS providers, data integrity, interview workflows, and jurisdiction-aware checks. Highlights include the SQLite index ([#918](https://github.com/career-ops-hq/career-ops/issues/918) → [#919](https://github.com/career-ops-hq/career-ops/pull/919)), the per-plugin registry design ([#1402](https://github.com/career-ops-hq/career-ops/pull/1402)), the advisory concurrent-session claim system ([#4536](https://github.com/career-ops-hq/career-ops/pull/4536)), and a wave of new ATS providers (ADP Workforce Now, UKG Pro/UltiPro, Dayforce, PeopleSoft, Taleo, Gem, Collage, Eploy, PrevueAPS).
 - 🧭 [**Jurisdiction Compliance Lens**](https://github.com/career-ops-hq/career-ops/issues/2026) — an umbrella I opened for source-backed, date-aware, warn-only checks across postings, application forms, interviews, process timelines, and offer terms. Each rule is keyed to the candidate's jurisdiction and states verifiable facts without declaring that an employer broke the law.
 - 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — a local-first insurance policy reader that places plain-language explanations beside the original clauses. Chinese and English, translation only, never advice.
 - 📐 [Shared Behavioral-Signal Layer](https://github.com/career-ops-hq/career-ops/issues/1506) — an open RFC for pooling company-attributable, candidate-anonymous interview-process signals.
 - 🤝 Contributor to [Hive](https://github.com/aden-hive/hive) — the [SDR Agent template](https://github.com/aden-hive/hive/pull/5178) was merged in v0.7.3; follow-up agent templates are in review.
 
 <details>
-<summary>all 87 merged career-ops PRs, grouped</summary>
+<summary>all 108 merged career-ops PRs, grouped</summary>
 
 **[Jurisdiction compliance lens](https://github.com/career-ops-hq/career-ops/issues/2026) & posting-legitimacy signals (17)**
 - [#1631](https://github.com/career-ops-hq/career-ops/pull/1631) — employee-vs-contractor classification warning signal
@@ -168,7 +169,7 @@ SCORM can tell you whether someone finished a module. I'm more interested in wha
 - [#2746](https://github.com/career-ops-hq/career-ops/pull/2746) — dedup-tracker: reject unrecognized flags instead of silently live-running
 - [#2778](https://github.com/career-ops-hq/career-ops/pull/2778) — `lib/cli-flags.mjs`: shared flag-validation helper (`validateFlags`), migrated 3 scripts + `scan.mjs`'s own `--help`-triggers-a-live-scan fix
 
-**ATS discovery & scanning (9)**
+**ATS discovery & scanning (19)**
 - [#746](https://github.com/career-ops-hq/career-ops/pull/746) — reverse-ATS job discovery (`scan-ats-full.mjs`)
 - [#1248](https://github.com/career-ops-hq/career-ops/pull/1248) — ATS auto-fill for Greenhouse / Ashby / Lever (prepare, don't submit)
 - [#1405](https://github.com/career-ops-hq/career-ops/pull/1405) — ATS channel yield analysis (algorithmic-monoculture aware)
@@ -178,6 +179,18 @@ SCORM can tell you whether someone finished a module. I'm more interested in wha
 - [#1872](https://github.com/career-ops-hq/career-ops/pull/1872) — surface post-submission resume verification for SuccessFactors-family ATS
 - [#1921](https://github.com/career-ops-hq/career-ops/pull/1921) — warn candidate to check employer ATS profile before reapplying to a repeat company
 - [#2095](https://github.com/career-ops-hq/career-ops/pull/2095) — reverse-ATS country-eligibility filter: US-only vs. US+Canada remote postings from JD body text
+- [#3710](https://github.com/career-ops-hq/career-ops/pull/3710) — per-company `title_filter_overrides` for `scan-ats-full.mjs`
+- [#3729](https://github.com/career-ops-hq/career-ops/pull/3729) — add ADP Workforce Now provider
+- [#3733](https://github.com/career-ops-hq/career-ops/pull/3733) — add UKG Pro/UltiPro provider
+- [#3734](https://github.com/career-ops-hq/career-ops/pull/3734) — add Dayforce scanner (Playwright-based)
+- [#3739](https://github.com/career-ops-hq/career-ops/pull/3739) — add PeopleSoft Candidate Gateway provider
+- [#3743](https://github.com/career-ops-hq/career-ops/pull/3743) — add Taleo public career-section provider
+- [#3785](https://github.com/career-ops-hq/career-ops/pull/3785) — Gem public REST job-board provider
+- [#3787](https://github.com/career-ops-hq/career-ops/pull/3787) — Collage HR public job provider
+- [#3912](https://github.com/career-ops-hq/career-ops/pull/3912) — seed ATS sweep from application history
+- [#3919](https://github.com/career-ops-hq/career-ops/pull/3919) — add PrevueAPS provider
+- [#4016](https://github.com/career-ops-hq/career-ops/pull/4016) — add offline GO Jobs HTML import
+- [#4055](https://github.com/career-ops-hq/career-ops/pull/4055) — add Eploy provider
 
 **CV, matching & targeting (9)**
 - [#1230](https://github.com/career-ops-hq/career-ops/pull/1230) — zero-LLM STAR story matcher from `story-bank.md`
@@ -196,16 +209,24 @@ SCORM can tell you whether someone finished a module. I'm more interested in wha
 - [#1399](https://github.com/career-ops-hq/career-ops/pull/1399) — obsidian plugin v0.1.0
 - [#1402](https://github.com/career-ops-hq/career-ops/pull/1402) — per-plugin registry files: conflict-free community registry PRs
 
-**Recent providers & reliability work (9)**
+**Recent providers & reliability work (11)**
 - [#2791](https://github.com/career-ops-hq/career-ops/pull/2791) — require every evaluation report to retain an archived JD
 - [#3643](https://github.com/career-ops-hq/career-ops/pull/3643) — stop treating ordinary prose as a tool claim
 - [#3699](https://github.com/career-ops-hq/career-ops/pull/3699) — make the CV template's second hard-coded color themeable
-- [#3710](https://github.com/career-ops-hq/career-ops/pull/3710) — per-company title-filter overrides for reverse ATS scans
-- [#3785](https://github.com/career-ops-hq/career-ops/pull/3785) — Gem public REST job-board provider
-- [#3787](https://github.com/career-ops-hq/career-ops/pull/3787) — Collage HR public job provider
+- [#3798](https://github.com/career-ops-hq/career-ops/pull/3798) — i18n: support `language.modes_dir` as a list of declared markets
 - [#3837](https://github.com/career-ops-hq/career-ops/pull/3837) — reject login walls, error pages, paywalls, and JS shells as archived JDs
 - [#3851](https://github.com/career-ops-hq/career-ops/pull/3851) — prioritize configured locations during Workday facet recovery
 - [#3909](https://github.com/career-ops-hq/career-ops/pull/3909) — require a real word before treating text as a title claim
+- [#3917](https://github.com/career-ops-hq/career-ops/pull/3917) — don't flag a cited posting requirement as a personal metric claim
+- [#4060](https://github.com/career-ops-hq/career-ops/pull/4060) — role-matcher: keep one-sided level siblings distinct
+- [#4096](https://github.com/career-ops-hq/career-ops/pull/4096) — jd-archive: ignore report reservation sentinels
+- [#4099](https://github.com/career-ops-hq/career-ops/pull/4099) — tracker: migrate missing URL column
+
+**Latest (not yet in a themed bucket above)**
+- [#4276](https://github.com/career-ops-hq/career-ops/pull/4276) — merge-tracker: a one-sided req number no longer merges into a duplicate row
+- [#4363](https://github.com/career-ops-hq/career-ops/pull/4363) — contacts: extract a recruiter/interviewer contact from a pasted reply
+- [#4507](https://github.com/career-ops-hq/career-ops/pull/4507) — merge-tracker: match on identical report file, ahead of the company guard
+- [#4536](https://github.com/career-ops-hq/career-ops/pull/4536) — session-activity: advisory in-progress claims for concurrent sessions
 
 </details>
 
@@ -231,10 +252,11 @@ SCORM能告诉你一个人有没有完成课程；我更想知道学习过程中
 
 **现在在做：**
 - 🎯 [Plot-Ark](https://github.com/Schlaflied/Plot-Ark) — 用xAPI记录学习行为，结合A2A agent做风险识别和报告生成，给教学设计师用。
+- 📊 [excel-ops](https://github.com/Schlaflied/excel-ops) — agent驱动的表格数据提取/清洗/匹配/校验/交付工作流，从真实的多源对账工作流里提炼出来的。
 - 🧠 [Cogito](https://github.com/Schlaflied/Cogito) — 从git历史和笔记里整理行为痕迹，试着画出一个人实际如何思考和工作的地图。
 
 **开源贡献：**
-- [career-ops](https://github.com/career-ops-hq/career-ops)（70K+ ★）— Core Contributor，也是`maintainers`和`triagers`团队成员。目前有**87个已合并PR**，主要做ATS/provider、数据完整性、面试流程和地区规则检查。代表工作包括SQLite索引（[#918](https://github.com/career-ops-hq/career-ops/issues/918) → [#919](https://github.com/career-ops-hq/career-ops/pull/919)）、per-plugin registry设计（[#1402](https://github.com/career-ops-hq/career-ops/pull/1402)），以及最近的Gem和Collage provider（[#3785](https://github.com/career-ops-hq/career-ops/pull/3785)、[#3787](https://github.com/career-ops-hq/career-ops/pull/3787)）。
+- [career-ops](https://github.com/career-ops-hq/career-ops)（73K+ ★）— Core Contributor，也是`maintainers`和`triagers`团队成员，在仓库全历史贡献者榜单排第5，只排在项目作者本人、Claude bot账号和ledger bot之后。目前有**108个已合并PR**，主要做ATS/provider、数据完整性、面试流程和地区规则检查。代表工作包括SQLite索引（[#918](https://github.com/career-ops-hq/career-ops/issues/918) → [#919](https://github.com/career-ops-hq/career-ops/pull/919)）、per-plugin registry设计（[#1402](https://github.com/career-ops-hq/career-ops/pull/1402)）、并发session的advisory claim系统（[#4536](https://github.com/career-ops-hq/career-ops/pull/4536)），以及最近一批新增的ATS provider（ADP Workforce Now、UKG Pro/UltiPro、Dayforce、PeopleSoft、Taleo、Gem、Collage、Eploy、PrevueAPS）。
 - 🧭 [**Jurisdiction Compliance Lens**](https://github.com/career-ops-hq/career-ops/issues/2026) — 我发起的umbrella项目，把职位描述、申请表、面试问题、招聘流程时间和offer条款放到候选人所在地的规则下检查。每条规则都要有可引用来源和生效日期；系统只提示可核验的事实，不替用户判断雇主是否违法。
 - [career-ops插件](https://github.com/career-ops-hq/career-ops) — 做了五个local-first插件：[Google Calendar](https://github.com/Schlaflied/career-ops-plugin-google-calendar)、[LinkedIn alerts](https://github.com/Schlaflied/career-ops-plugin-linkedin-alerts)、[Outlook interviews](https://github.com/Schlaflied/career-ops-plugin-outlook-interviews)、[Tavily](https://github.com/Schlaflied/career-ops-plugin-tavily)和[Obsidian](https://github.com/Schlaflied/career-ops-plugin-obsidian)。
 - 🛡️ [ClearCover](https://github.com/Schlaflied/clearcover) — 本地优先的保险保单阅读器，把原始条款和人话解释放在一起。支持中英文，只做解释，不给建议。
